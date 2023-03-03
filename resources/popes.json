@@ -1,0 +1,3995 @@
+[
+    {
+        "century" :"first",
+        "person":{
+            "Pontiff Number": "001",
+            "Pontificate": "30/33 – 64/68",
+            "Personal Name": "Šimon Kêpâ",
+            "Name in English" : "St Peter", 
+            "Name in Latin" : "Petrus",
+            "Date of Birth" : "AD 1",
+            "Birthplace" : "Bethsaida, Galilea, Imperii Romaniae",
+            "Age at start of Papacy" : "29–32",
+            "Age at end of Papacy" : "63–67"         
+        },
+        "current": false
+    },
+    {
+        "century": "first",
+        "person":{
+            "Pontiff Number": "002",
+            "Pontificate": "64/68 – 76/79",
+            "Personal Name": "Linus",
+            "Name in English" : "St Linus", 
+            "Name in Latin" : "Papa Linus",
+            "Date of Birth" : "AD 10",
+            "Birthplace" : "Volterrae, Italia, Roman Empire",
+            "Age at start of Papacy" : "54–58",
+            "Age at end of Papacy" : "66–69"         
+        },
+        "current": false
+    },
+    {
+        "century" :"first",
+        "person":{
+            "Pontiff Number": "003",
+            "Pontificate": "76/79 – 88/91",
+            "Personal Name": "Anáklētos",
+            "Name in English" : "St Anacletus", 
+            "Name in Latin" : "Papa Anacletus",
+            "Date of Birth" : "AD 25",
+            "Birthplace" : "Athenae, Achaea, Roman Empire",
+            "Age at start of Papacy" : "51–54",
+            "Age at end of Papacy" : "63–66"         
+        },
+        "current": false
+    },
+    {
+        "century" :"first",
+        "person":{
+            "Pontiff Number": "004",
+            "Pontificate": "26 April 88 – 23 Nov 99",
+            "Personal Name": "Clemens",
+            "Name in English" : "St Clement I", 
+            "Name in Latin" : "Papa Clemens",
+            "Date of Birth" : "circa AD 35",
+            "Birthplace" : "Roma, Roman Empire",
+            "Age at start of Papacy" : "53",
+            "Age at end of Papacy" : "64"         
+        },
+        "current": false
+    },
+    {
+        "century" :"first",
+        "person":{
+            "Pontiff Number": "005",
+            "Pontificate": "23 Nov 99 – 27 Oct 105",
+            "Personal Name": "Euáristos",
+            "Name in English" : "St Evaristus", 
+            "Name in Latin" : "Papa Evaristus",
+            "Date of Birth" : "circa AD 30",
+            "Birthplace" : "Bethleem, Iudaea, Roman Empire ",
+            "Age at start of Papacy" : "69",
+            "Age at end of Papacy" : "75"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "006",
+            "Pontificate": "27 Oct 105 – 3 May 115",
+            "Personal Name": "Alexander",
+            "Name in English" : "St Alexander I", 
+            "Name in Latin" : "Papa Alexander",
+            "Date of Birth" : "circa AD 75",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "30",
+            "Age at end of Papacy" : "40"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "007",
+            "Pontificate": "3 May 115 – 3 April 125",
+            "Personal Name": "Xystus",
+            "Name in English" : "St Sixtus I", 
+            "Name in Latin" : "Papa Xystus",
+            "Date of Birth" : "circa AD 42",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "73",
+            "Age at end of Papacy" : "83"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "008",
+            "Pontificate": "3 April 125 – 5 Jan 136",
+            "Personal Name": "Telesphóros",
+            "Name in English" : "St Telesphorus", 
+            "Name in Latin" : "Papa Telesphorus",
+            "Date of Birth" : "circa AD 67",
+            "Birthplace" : "Terra Nova, Italy, Roman Empire",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "69"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "009",
+            "Pontificate": "5 Jan 136 – 11 Jan 140",
+            "Personal Name": "Ygínos",
+            "Name in English" : "St Hyginus", 
+            "Name in Latin" : "Papa Hyginus",
+            "Date of Birth" : "circa AD 74",
+            "Birthplace" : "Athens, Achaea, Roman Empire",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "62"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "010",
+            "Pontificate": "11 Jan 140 – 11 July 155",
+            "Personal Name": "Pius",
+            "Name in English" : "St Pius I", 
+            "Name in Latin" : "Papa Pius",
+            "Date of Birth" : "circa AD 81",
+            "Birthplace" : "Aquileia, Italy, Roman Empire",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "74"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "011",
+            "Pontificate": "11 July 155 – 20 April 166",
+            "Personal Name": "Aníkētos",
+            "Name in English" : "St Anicetus", 
+            "Name in Latin" : "Papa Anicetus",
+            "Date of Birth" : "circa AD 92",
+            "Birthplace" : "Emesa, Syria, Roman Empire ",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "74"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "012",
+            "Pontificate": "20 April 166 – 22 April 174",
+            "Personal Name": "Soterius",
+            "Name in English" : "St Soter", 
+            "Name in Latin" : "Papa Soterius",
+            "Date of Birth" : "circa AD 119",
+            "Birthplace" : "Fundi, Aquileia, Roman Empire",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "55"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "013",
+            "Pontificate": "22 April 174 – 26 May 189",
+            "Personal Name": "Eleuthérios",
+            "Name in English" : "St Eleutherius", 
+            "Name in Latin" : "Papa Eleutherius",
+            "Date of Birth" : "circa AD 130",
+            "Birthplace" : "Nicopolis, Epirus, Roman Empire",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "59"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "014",
+            "Pontificate": "26 May 189 – 28 July 199",
+            "Personal Name": "Victor",
+            "Name in English" : "St Victor", 
+            "Name in Latin" : "Papa Victor",
+            "Date of Birth" : "AD N/A",
+            "Birthplace" : "Africa, Roman Empire",
+            "Age at start of Papacy" : "n/a",
+            "Age at end of Papacy" : "n/a"         
+        },
+        "current": false
+    },
+    {
+        "century" :"second",
+        "person":{
+            "Pontiff Number": "015",
+            "Pontificate": "28 July 199 – 20 Dec 217",
+            "Personal Name": "Zephyrinus",
+            "Name in English" : "St Zephyrinus", 
+            "Name in Latin" : "Papa Zephyrinus",
+            "Date of Birth" : "circa AD 160",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "39",
+            "Age at end of Papacy" : "57"         
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "016",
+            "Pontificate": "20 Dec 217 – 14 Oct 222",
+            "Personal Name": "Callixtus",
+            "Name in English" : "St Callixtus I", 
+            "Name in Latin" : "Papa Callixtus",
+            "Date of Birth" : "circa AD 155",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "62",
+            "Age at end of Papacy" : "67"         
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "017",
+            "Pontificate": "14 Oct 222 – 23 May 230",
+            "Personal Name": "Urbanus",
+            "Name in English" : "St Urban I", 
+            "Name in Latin" : "Papa Urbanus",
+            "Date of Birth" : "circa AD 175",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "47",
+            "Age at end of Papacy" : "55"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "018",
+            "Pontificate": "14 Oct 222 – 23 May 230",
+            "Personal Name": "Pontianus",
+            "Name in English" : "St Pontian", 
+            "Name in Latin" : "Papa Pontianus",
+            "Date of Birth" : "circa AD 175",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "60"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "019",
+            "Pontificate": "21 Nov 235 – 3 Jan 236",
+            "Personal Name": "Anthērós",
+            "Name in English" : "St Anterus", 
+            "Name in Latin" : "Papa Anterus",
+            "Date of Birth" : "circa AD 180",
+            "Birthplace" : "Petilia, Italy, Roman Empire",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "56"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "020",
+            "Pontificate": "10 Jan 236 – 20 Jan 250",
+            "Personal Name": "Fabianus",
+            "Name in English" : "St Fabian", 
+            "Name in Latin" : "Papa Fabianus",
+            "Date of Birth" : "circa AD 200",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "36",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "021",
+            "Pontificate": "6 March 251 – 25 June 253",
+            "Personal Name": "Cornelius",
+            "Name in English" : "St Cornelius", 
+            "Name in Latin" : "Papa Cornelius",
+            "Date of Birth" : "circa AD 180",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "71",
+            "Age at end of Papacy" : "73"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "022",
+            "Pontificate": "25 June 253 – 5 March 254",
+            "Personal Name": "Lucius",
+            "Name in English" : "St Lucius I", 
+            "Name in Latin" : "Papa Lucius",
+            "Date of Birth" : "circa AD 200",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "023",
+            "Pontificate": "12 March 254 – 2 Aug 257",
+            "Personal Name": "Stéphanos",
+            "Name in English" : "St Stephen I", 
+            "Name in Latin" : "Papa Stephanus",
+            "Date of Birth" : "circa AD 205",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "024",
+            "Pontificate": "30 Aug 257 – 6 Aug 258",
+            "Personal Name": "Síxtos",
+            "Name in English" : "St Sixtus II", 
+            "Name in Latin" : "Papa Xystus Secundus",
+            "Date of Birth" : "circa AD 215",
+            "Birthplace" : "Athens, Achaea, Roman Empire",
+            "Age at start of Papacy" : "42",
+            "Age at end of Papacy" : "43"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "025",
+            "Pontificate": "22 July 259 – 26 Dec 268",
+            "Personal Name": "Dionýsios",
+            "Name in English" : "St Dionysius", 
+            "Name in Latin" : "Papa Dionysius",
+            "Date of Birth" : "circa AD 200",
+            "Birthplace" : "Terra Nova, Italy, Roman Empire",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "026",
+            "Pontificate": "5 Jan 269 – 30 Dec 274",
+            "Personal Name": "Felix",
+            "Name in English" : "St Felix I", 
+            "Name in Latin" : "Papa Felix",
+            "Date of Birth" : "circa AD 206",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "027",
+            "Pontificate": "4 Jan 275 – 7 Dec 283",
+            "Personal Name": "Eutychianus",
+            "Name in English" : "St Eutychian", 
+            "Name in Latin" : "Papa Eutychianus",
+            "Date of Birth" : "circa AD 240",
+            "Birthplace" : "Luna, Italy, Roman Empire ",
+            "Age at start of Papacy" : "35",
+            "Age at end of Papacy" : "43"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "028",
+            "Pontificate": "17 Dec 283 – 22 April 296",
+            "Personal Name": "Caius",
+            "Name in English" : "St Caius", 
+            "Name in Latin" : "Papa Caius",
+            "Date of Birth" : "circa AD 245",
+            "Birthplace" : "Salona, Dalmatia, Roman Empire",
+            "Age at start of Papacy" : "38",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"third",
+        "person":{
+            "Pontiff Number": "029",
+            "Pontificate": "30 June 296 – 26 April 304",
+            "Personal Name": "Marcellinus",
+            "Name in English" : "St Marcellinus", 
+            "Name in Latin" : "Papa Marcellinus",
+            "Date of Birth" : "circa AD 250",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "030",
+            "Pontificate": "27 May 308 – 16 Jan 309",
+            "Personal Name": "Marcellus",
+            "Name in English" : "St Marcellus I", 
+            "Name in Latin" : "Papa Marcellus",
+            "Date of Birth" : "circa AD 255",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "53",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "031",
+            "Pontificate": "18 April 309 – 17 Aug 310",
+            "Personal Name": "Eusébios",
+            "Name in English" : "St Eusebius", 
+            "Name in Latin" : "Papa Eusebius",
+            "Date of Birth" : "circa AD 255",
+            "Birthplace" : "Sardinia, Roman Empire",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "032",
+            "Pontificate": "2 July 311 – 10 Jan 314",
+            "Personal Name": "Miltiades",
+            "Name in English" : "St Miltiades", 
+            "Name in Latin" : "Papa Miltiades",
+            "Date of Birth" : "circa AD 270",
+            "Birthplace" : "Africa, Roman Empire",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "44"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "033",
+            "Pontificate": "31 Jan 314 – 31 Dec 335",
+            "Personal Name": "Silvester",
+            "Name in English" : "St Silvester I", 
+            "Name in Latin" : "Papa Silvester",
+            "Date of Birth" : "circa AD 285",
+            "Birthplace" : "Fanum Sancti Angeli de Scala, Apulia et Calabria, Roman Empire",
+            "Age at start of Papacy" : "29",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "034",
+            "Pontificate": "18 Jan 336 – 7 Oct 336",
+            "Personal Name": "Marcus",
+            "Name in English" : "St Mark", 
+            "Name in Latin" : "Papa Marcus",
+            "Date of Birth" : "circa AD 290",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "46"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "035",
+            "Pontificate": "6 Feb 337 – 12 April 352",
+            "Personal Name": "Iulius",
+            "Name in English" : "St Julius I", 
+            "Name in Latin" : "Papa Iulius",
+            "Date of Birth" : "circa AD 280",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "72"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "036",
+            "Pontificate": "17 May 352 – 24 Sep 366",
+            "Personal Name": "Liberius",
+            "Name in English" : "Liberius", 
+            "Name in Latin" : "Papa Liberius",
+            "Date of Birth" : "circa AD 310",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "42",
+            "Age at end of Papacy" : "56"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "037",
+            "Pontificate": "1 Oct 366 – 11 Dec 384",
+            "Personal Name": "Damasus",
+            "Name in English" : "St Damasus I", 
+            "Name in Latin" : "Papa Damasus",
+            "Date of Birth" : "circa AD 305",
+            "Birthplace" : "Egitania, Lusitania, Roman Empire",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "78"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "038",
+            "Pontificate": "17 Dec 384 – 26 Nov 399",
+            "Personal Name": "Sicirius",
+            "Name in English" : "St Sicirius", 
+            "Name in Latin" : "Papa Sicirius",
+            "Date of Birth" : "circa AD 334",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "50",
+            "Age at end of Papacy" : "65"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourth",
+        "person":{
+            "Pontiff Number": "039",
+            "Pontificate": "27 Nov 399 – 19 Dec 401",
+            "Personal Name": "Anastasius",
+            "Name in English" : "St Anastasius I", 
+            "Name in Latin" : "Papa Anastasius",
+            "Date of Birth" : "circa AD 340",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "61"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "040",
+            "Pontificate": "21 Dec 401 – 12 March 417",
+            "Personal Name": "Innocentius",
+            "Name in English" : "St Innocent I", 
+            "Name in Latin" : "Papa Innocentius",
+            "Date of Birth" : "circa AD 378",
+            "Birthplace" : "Albanum, Latium et Campania, Roman Empire",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "041",
+            "Pontificate": "18 March 417 – 26 Dec 418",
+            "Personal Name": "Zṓsimos",
+            "Name in English" : "St Zosimus", 
+            "Name in Latin" : "Papa Zosimus",
+            "Date of Birth" : "circa AD 370",
+            "Birthplace" : "Messurga, Lucania et Bruttii, Roman Empire",
+            "Age at start of Papacy" : "47",
+            "Age at end of Papacy" : "48"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "042",
+            "Pontificate": "28 Dec 418 – 4 Sep 422",
+            "Personal Name": "Bonifacius",
+            "Name in English" : "St Boniface I", 
+            "Name in Latin" : "Papa Bonifacius",
+            "Date of Birth" : "circa AD 377",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "43",
+            "Age at end of Papacy" : "47"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "043",
+            "Pontificate": "10 Sep 422 – 27 July 432",
+            "Personal Name": "Caelestinus",
+            "Name in English" : "St Celestine I", 
+            "Name in Latin" : "Papa Caelestinus",
+            "Date of Birth" : "circa AD 380",
+            "Birthplace" : "Campania, Roman Empire",
+            "Age at start of Papacy" : "42",
+            "Age at end of Papacy" : "55"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "044",
+            "Pontificate": "31 July 432 – 18 Aug 440",
+            "Personal Name": "Xystus",
+            "Name in English" : "St Sixtus III", 
+            "Name in Latin" : "Papa Xystus Teritus",
+            "Date of Birth" : "circa AD 390",
+            "Birthplace" : "Rome, Roman Empire",
+            "Age at start of Papacy" : "42",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "045",
+            "Pontificate": "29 Sep 440 – 10 Nov 461",
+            "Personal Name": "Leo",
+            "Name in English" : "St Leo I", 
+            "Name in Latin" : "Papa Leo Magnus",
+            "Date of Birth" : "circa AD 390",
+            "Birthplace" : "Etruria, Roman Empire",
+            "Age at start of Papacy" : "50",
+            "Age at end of Papacy" : "71"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "046",
+            "Pontificate": "19 Nov 461 – 29 Feb 468",
+            "Personal Name": "Hilarius",
+            "Name in English" : "St Hilarius", 
+            "Name in Latin" : "Papa Hilarius",
+            "Date of Birth" : "circa AD 400",
+            "Birthplace" : "Sardinia, Western Roman Empire",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "53"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "047",
+            "Pontificate": "3 March 468 – 10 March 483",
+            "Personal Name": "Simplicius",
+            "Name in English" : "St Simplicius", 
+            "Name in Latin" : "Papa Simplicius",
+            "Date of Birth" : "circa AD 430",
+            "Birthplace" : "Tibur, Western Roman Empire",
+            "Age at start of Papacy" : "38",
+            "Age at end of Papacy" : "53"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "048",
+            "Pontificate": "13 March 483 – 1 March 492",
+            "Personal Name": "Anicius Felix",
+            "Name in English" : "St Felix III", 
+            "Name in Latin" : "Papa Felix Tertius",
+            "Date of Birth" : "circa AD 440",
+            "Birthplace" : "Rome, Western Roman Empire",
+            "Age at start of Papacy" : "43",
+            "Age at end of Papacy" : "52"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "049",
+            "Pontificate": "1 March 492 – 21 Nov 49",
+            "Personal Name": "Gelasius",
+            "Name in English" : "St Gelasius I", 
+            "Name in Latin" : "Papa Gelasius",
+            "Date of Birth" : "circa AD 410",
+            "Birthplace" : "Cabylia, Africa, Western Roman Empire",
+            "Age at start of Papacy" : "82",
+            "Age at end of Papacy" : "86"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "050",
+            "Pontificate": "24 Nov 496 – 19 Nov 498",
+            "Personal Name": "Anastasius",
+            "Name in English" : "Anastasius II", 
+            "Name in Latin" : "Papa Anastasius Secundus",
+            "Date of Birth" : "circa AD 445",
+            "Birthplace" : "Rome, Western Roman Empire",
+            "Age at start of Papacy" : "51",
+            "Age at end of Papacy" : "53"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifth",
+        "person":{
+            "Pontiff Number": "051",
+            "Pontificate": "22 Nov 498 – 19 July 514",
+            "Personal Name": "Symmachus",
+            "Name in English" : "St Symmachus", 
+            "Name in Latin" : "Papa Symmachus",
+            "Date of Birth" : "circa AD 460",
+            "Birthplace" : "Sardinia, Western Roman Empire",
+            "Age at start of Papacy" : "38",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "052",
+            "Pontificate": "20 July 514 – 6 Aug 523",
+            "Personal Name": "Hormisdas",
+            "Name in English" : "St Hormisdas", 
+            "Name in Latin" : "Papa Hormisdas",
+            "Date of Birth" : "circa AD 450",
+            "Birthplace" : "Frosino, Latium, Western Roman Empire",
+            "Age at start of Papacy" : "64",
+            "Age at end of Papacy" : "73"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "053",
+            "Pontificate": "13 Aug 523 – 18 May 526",
+            "Personal Name": "Ioannes",
+            "Name in English" : "St John I", 
+            "Name in Latin" : "Papa Ioannes",
+            "Date of Birth" : "circa AD 470",
+            "Birthplace" : "Sena Iulia, Etruria, Western Roman Empire",
+            "Age at start of Papacy" : "53",
+            "Age at end of Papacy" : "56"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "054",
+            "Pontificate": "12 July 526 – 22 Sep 530",
+            "Personal Name": "Felix",
+            "Name in English" : "St Felix IV", 
+            "Name in Latin" : "Papa Felix Quartus",
+            "Date of Birth" : "circa AD 490",
+            "Birthplace" : "Samnium, Kingdom of Odoacer",
+            "Age at start of Papacy" : "36",
+            "Age at end of Papacy" : "40"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "055",
+            "Pontificate": "22 Sep 530 – 17 Oct 532",
+            "Personal Name": "Bonifacius",
+            "Name in English" : "Bonifacius II", 
+            "Name in Latin" : "Papa Bonifacius Secundus",
+            "Date of Birth" : "circa AD 490",
+            "Birthplace" : "Rome, Kingdom of Odoacer",
+            "Age at start of Papacy" : "40",
+            "Age at end of Papacy" : "42"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "056",
+            "Pontificate": "2 Jan 533 – 8 May 535",
+            "Personal Name": "Mercurius",
+            "Name in English" : "John II", 
+            "Name in Latin" : "Papa Ioannes Secundus",
+            "Date of Birth" : "circa AD 473",
+            "Birthplace" : "Rome, Western Roman Empire",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "65"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "057",
+            "Pontificate": "13 May 535 – 22 April 536",
+            "Personal Name": "Agapetus",
+            "Name in English" : "St Agapetus I", 
+            "Name in Latin" : "Papa Agapetus",
+            "Date of Birth" : "circa AD 470",
+            "Birthplace" : "Rome, Kingdom of Odoacer",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "46"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "058",
+            "Pontificate": "8 June 536 – 11 March 537",
+            "Personal Name": "Silverius",
+            "Name in English" : "St Silverius", 
+            "Name in Latin" : "Papa Silverius",
+            "Date of Birth" : "circa AD 480",
+            "Birthplace" : "Cicanum, Ostrogothic Kingdom",
+            "Age at start of Papacy" : "56",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "059",
+            "Pontificate": "29 March 537 – 7 June 555",
+            "Personal Name": "Vigilius",
+            "Name in English" : "Vigilius", 
+            "Name in Latin" : "Papa Vigilius",
+            "Date of Birth" : "circa AD 500",
+            "Birthplace" : "Rome, Kingdom of Odoacer",
+            "Age at start of Papacy" : "37",
+            "Age at end of Papacy" : "55"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "060",
+            "Pontificate": "16 April 556 – 4 March 561",
+            "Personal Name": "Pelagius",
+            "Name in English" : "Pelagius I", 
+            "Name in Latin" : "Papa Pelagius",
+            "Date of Birth" : "circa AD 505",
+            "Birthplace" : "Rome, Ostrogothic Kingdom",
+            "Age at start of Papacy" : "51",
+            "Age at end of Papacy" : "56"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "061",
+            "Pontificate": "17 July 561 – 13 July 574",
+            "Personal Name": "Ioannes Catelinus",
+            "Name in English" : "John III", 
+            "Name in Latin" : "Papa Ioannes Tertius",
+            "Date of Birth" : "circa AD 520",
+            "Birthplace" : "Rome, Ostrogothic Kingdom",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "062",
+            "Pontificate": "2 June 575 – 30 July 579",
+            "Personal Name": "Benedictus",
+            "Name in English" : "Benedict I", 
+            "Name in Latin" : "Papa Benedictus",
+            "Date of Birth" : "circa AD 525",
+            "Birthplace" : "Rome, Ostrogothic Kingdom",
+            "Age at start of Papacy" : "50",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "063",
+            "Pontificate": "26 Nov 579 – 7 Feb 590",
+            "Personal Name": "Pelagius",
+            "Name in English" : "Pelagius II", 
+            "Name in Latin" : "Papa Pelagius Secundus",
+            "Date of Birth" : "circa AD 520",
+            "Birthplace" : "Rome, Ostrogothic Kingdom",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "70"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixth",
+        "person":{
+            "Pontiff Number": "064",
+            "Pontificate": "3 Sep 590 – 12 March 604",
+            "Personal Name": "Anicius Gregorius",
+            "Name in English" : "St Gregory I", 
+            "Name in Latin" : "Papa Gregorius Magnus",
+            "Date of Birth" : "circa AD 540",
+            "Birthplace" : "Rome, Byzantine Empire",
+            "Age at start of Papacy" : "50",
+            "Age at end of Papacy" : "64"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "065",
+            "Pontificate": "13 Sep 604 – 22 Feb 606",
+            "Personal Name": "Sabinianus",
+            "Name in English" : "Sabinian", 
+            "Name in Latin" : "Papa Sabinianus",
+            "Date of Birth" : "circa AD 530",
+            "Birthplace" : "Blera, Byzantine Empire",
+            "Age at start of Papacy" : "74",
+            "Age at end of Papacy" : "76"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "066",
+            "Pontificate": "19 Feb 607 – 12 Nov 607",
+            "Personal Name": "Boniphátios Kataandiókēs",
+            "Name in English" : "Boniface III", 
+            "Name in Latin" : "Papa Bonifacius Tertius",
+            "Date of Birth" : "circa AD 540",
+            "Birthplace" : "Rome, Byzantine Empire",
+            "Age at start of Papacy" : "66",
+            "Age at end of Papacy" : "67"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "067",
+            "Pontificate": "15 Sep 608 – 8 May 615",
+            "Personal Name": "Bonifacius",
+            "Name in English" : "St Boniface IV", 
+            "Name in Latin" : "Papa Bonifacius Quartus",
+            "Date of Birth" : "circa AD 550",
+            "Birthplace" : "Marsica, Byzantine Empire",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "65"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "068",
+            "Pontificate": "13 Nov 615 – 8 Nov 618",
+            "Personal Name": "Adeodatus",
+            "Name in English" : "St Adeodatus I", 
+            "Name in Latin" : "Papa Adeodatus",
+            "Date of Birth" : "circa AD 570",
+            "Birthplace" : "Rome, Byzantine Empire",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "58"        
+        },
+        "current": false
+    }, 
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "069",
+            "Pontificate": "23 Dec 619 – 25 Oct 625",
+            "Personal Name": "Boniphátios Phoumínos",
+            "Name in English" : "Boniface V", 
+            "Name in Latin" : "Papa Bonifacius Quintus",
+            "Date of Birth" : "circa AD 575",
+            "Birthplace" : "Neapolis, Byzantine Empire",
+            "Age at start of Papacy" : "44",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    }, 
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "070",
+            "Pontificate": "27 Oct 625 – 12 Oct 638",
+            "Personal Name": "Honorius",
+            "Name in English" : "Honorius I", 
+            "Name in Latin" : "Papa Honorius",
+            "Date of Birth" : "circa AD 585",
+            "Birthplace" : "Ceperanum, Campania, Byzantine Empire",
+            "Age at start of Papacy" : "40",
+            "Age at end of Papacy" : "53"        
+        },
+        "current": false
+    }, 
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "071",
+            "Pontificate": "28 May 640 – 2 Aug 640",
+            "Personal Name": "Severinus",
+            "Name in English" : "Severinus", 
+            "Name in Latin" : "Papa Severinus",
+            "Date of Birth" : "circa AD 585",
+            "Birthplace" : "Rome, Byzantine Empire",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "55"        
+        },
+        "current": false
+    }, 
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "072",
+            "Pontificate": "24 Dec 640 – 12 Oct 642",
+            "Personal Name": "Iōánnēs",
+            "Name in English" : "John IV", 
+            "Name in Latin" : "Papa Ioannes Quartus",
+            "Date of Birth" : "circa AD 587",
+            "Birthplace" : "Iadera, Dalmatia, Byzantine Empire",
+            "Age at start of Papacy" : "40",
+            "Age at end of Papacy" : "42"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "073",
+            "Pontificate": "24 Nov 642 – 14 May 649",
+            "Personal Name": "Theódōros",
+            "Name in English" : "Theodore I", 
+            "Name in Latin" : "Papa Theodorus",
+            "Date of Birth" : "circa AD 610",
+            "Birthplace" : "Hierosolyma, Byzantine Empire",
+            "Age at start of Papacy" : "32",
+            "Age at end of Papacy" : "39"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "074",
+            "Pontificate": "5 July 649 – 12 Nov 655",
+            "Personal Name": "Martinus",
+            "Name in English" : "St Martin I", 
+            "Name in Latin" : "Papa Martinus",
+            "Date of Birth" : "circa AD 590",
+            "Birthplace" : "Near Tuder, Umbria, Byzantine Empire",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "65"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "075",
+            "Pontificate": "10 Aug 654 – 2 June 657",
+            "Personal Name": "Eugenius",
+            "Name in English" : "St Eugene I", 
+            "Name in Latin" : "Papa Eugenius",
+            "Date of Birth" : "circa AD 615",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "39",
+            "Age at end of Papacy" : "43"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "076",
+            "Pontificate": "30 July 657 – 27 Jan 672",
+            "Personal Name": "Vitalianus",
+            "Name in English" : "St Vitalian", 
+            "Name in Latin" : "Papa Vitalianus",
+            "Date of Birth" : "circa AD 600",
+            "Birthplace" : "Signia, Duchy of Rome",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "72"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "077",
+            "Pontificate": "11 April 672 – 17 June 676",
+            "Personal Name": "Adeodatus",
+            "Name in English" : "Adeodatus II", 
+            "Name in Latin" : "Papa Adeodatus Secundus",
+            "Date of Birth" : "circa AD 621",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "51",
+            "Age at end of Papacy" : "55"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "078",
+            "Pontificate": "2 Nov 676 – 11 April 678",
+            "Personal Name": "Donus",
+            "Name in English" : "Donus", 
+            "Name in Latin" : "Papa Donus",
+            "Date of Birth" : "circa AD 610",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "66",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "079",
+            "Pontificate": "27 June 678 – 10 Jan 681",
+            "Personal Name": "Agáthōn",
+            "Name in English" : "St Agatho", 
+            "Name in Latin" : "Papa Agatho",
+            "Date of Birth" : "circa AD 577",
+            "Birthplace" : "Panormus, Sicilia, Byzantine Empire",
+            "Age at start of Papacy" : "101",
+            "Age at end of Papacy" : "104"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "080",
+            "Pontificate": "17 Aug 682 – 3 July 683",
+            "Personal Name": "Léōn",
+            "Name in English" : "St Leo II", 
+            "Name in Latin" : "Papa Leo Secundus",
+            "Date of Birth" : "circa AD 611",
+            "Birthplace" : "Aydonum, Sicily, Byzantine Empire",
+            "Age at start of Papacy" : "71",
+            "Age at end of Papacy" : "72"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "081",
+            "Pontificate": "26 June 684 – 8 May 685",
+            "Personal Name": "Benedictus Sabellus",
+            "Name in English" : "St Benedict II", 
+            "Name in Latin" : "Papa Benedictus secuncus",
+            "Date of Birth" : "circa AD 635",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "082",
+            "Pontificate": "23 July 685 – 2 Aug 686",
+            "Personal Name": "Iōánnēs",
+            "Name in English" : "John V", 
+            "Name in Latin" : "Papa Ioannes Quintus",
+            "Date of Birth" : "circa AD 635",
+            "Birthplace" : "Antiochia, Syria, Byzantine Empire",
+            "Age at start of Papacy" : "50",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "083",
+            "Pontificate": "21 Oct 686 – 21 Sep 687",
+            "Personal Name": "Kónōn",
+            "Name in English" : "Conon", 
+            "Name in Latin" : "Papa Conon",
+            "Date of Birth" : "circa AD 630",
+            "Birthplace" : "Thracia, Byzantine Empire",
+            "Age at start of Papacy" : "56",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventh",
+        "person":{
+            "Pontiff Number": "084",
+            "Pontificate": "15 Dec 687 – 8 Sep 701",
+            "Personal Name": "Sérgios",
+            "Name in English" : "St Sergius I", 
+            "Name in Latin" : "Papa Sergius",
+            "Date of Birth" : "circa AD 650",
+            "Birthplace" : "Palermo, Sicily, Byzantine Empire",
+            "Age at start of Papacy" : "37",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "085",
+            "Pontificate": "30 Oct 701 – 11 Jan 705",
+            "Personal Name": "Iōánnēs",
+            "Name in English" : "John VI", 
+            "Name in Latin" : "Papa Ioannes Sextus",
+            "Date of Birth" : "circa AD 650",
+            "Birthplace" : "Ephesus, Byzantine Empire",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "086",
+            "Pontificate": "1 March 705 – 18 Oct 707",
+            "Personal Name": "Iōánnēs",
+            "Name in English" : "John VII", 
+            "Name in Latin" : "Papa Ioannes Septimus",
+            "Date of Birth" : "circa AD 655",
+            "Birthplace" : "Rossanum, Calabria, Byzantine Empire",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "087",
+            "Pontificate": "15 Jan 708 – 4 Feb 708",
+            "Personal Name": "Sisínios",
+            "Name in English" : "Sisinnius", 
+            "Name in Latin" : "Papa Sisinnius",
+            "Date of Birth" : "circa AD 650",
+            "Birthplace" : "Syria, Rashidun Caliphate",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "58"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "088",
+            "Pontificate": "25 March 708 – 9 April 715",
+            "Personal Name": "Kōnstantínos",
+            "Name in English" : "Constantine", 
+            "Name in Latin" : "Papa Constantinus",
+            "Date of Birth" : "circa AD 664",
+            "Birthplace" : "Syria, Umayyad Caliphate",
+            "Age at start of Papacy" : "44",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "089",
+            "Pontificate": "19 May 715 – 11 Feb 731",
+            "Personal Name": "Gregorius Sabellus",
+            "Name in English" : "St Gregory II", 
+            "Name in Latin" : "Papa Gregorius Secundus",
+            "Date of Birth" : "circa AD 669",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "62"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "090",
+            "Pontificate": "18 March 731 – 28 Nov 741",
+            "Personal Name": "Grēgórios",
+            "Name in English" : "St Gregory III", 
+            "Name in Latin" : "Papa Gregorius Tertius",
+            "Date of Birth" : "circa AD 669",
+            "Birthplace" : "Syria, Umayyad Caliphate",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "091",
+            "Pontificate": "3 Dec 741 – 22 March 752",
+            "Personal Name": "Zakharías",
+            "Name in English" : "St Zachary", 
+            "Name in Latin" : "Papa Zacharais",
+            "Date of Birth" : "circa AD 679",
+            "Birthplace" : "Sancta Severina, Calabria, Byzantine Empire",
+            "Age at start of Papacy" : "62",
+            "Age at end of Papacy" : "73"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "092",
+            "Pontificate": "26 March 752 – 26 April 757",
+            "Personal Name": "Stephanus Orsinus",
+            "Name in English" : "Stephen II", 
+            "Name in Latin" : "Papa Stephanus Secundus",
+            "Date of Birth" : "circa AD 714",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "38",
+            "Age at end of Papacy" : "43"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "093",
+            "Pontificate": "29 May 757 – 28 June 767",
+            "Personal Name": "Paulus Orsinus",
+            "Name in English" : "St Paul I", 
+            "Name in Latin" : "Papa Paulus",
+            "Date of Birth" : "circa AD 700",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "67"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "094",
+            "Pontificate": "7 Aug 768 – 24 Jan 772",
+            "Personal Name": "Stéphanos",
+            "Name in English" : "Stephen III", 
+            "Name in Latin" : "Papa Stephanus Tertius",
+            "Date of Birth" : "circa AD 723",
+            "Birthplace" : "Syracuse, Thema Sicelias, Byzantine Empire",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "095",
+            "Pontificate": "1 Feb 772 – 26 Dec 795",
+            "Personal Name": "Hadrianus Columna",
+            "Name in English" : "Adrian I", 
+            "Name in Latin" : "Papa Hadrianus",
+            "Date of Birth" : "circa AD 700",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "72",
+            "Age at end of Papacy" : "95"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eigth",
+        "person":{
+            "Pontiff Number": "096",
+            "Pontificate": "26 Dec 795 – 12 June 816",
+            "Personal Name": "Leo",
+            "Name in English" : "St Leo III", 
+            "Name in Latin" : "Papa Leo Tertius",
+            "Date of Birth" : "circa AD 750",
+            "Birthplace" : "Rome, Duchy of Rome",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "66"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "097",
+            "Pontificate": "22 June 816 – 24 Jan 817",
+            "Personal Name": "Stefano Colonna",
+            "Name in English" : "Stephen IV", 
+            "Name in Latin" : "Papa Stephanus Quartus",
+            "Date of Birth" : "circa AD 770",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "47"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "098",
+            "Pontificate": "25 Jan 817 – 11 Feb 824",
+            "Personal Name": "Pasquale Massimi",
+            "Name in English" : "St Paschal I", 
+            "Name in Latin" : "Papa Paschalis",
+            "Date of Birth" : "circa AD 775",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "42",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "099",
+            "Pontificate": "8 May 824 – 27 Aug 827",
+            "Personal Name": "Eugenio Savelli",
+            "Name in English" : "Eugene II", 
+            "Name in Latin" : "Papa Eugenius Secundus",
+            "Date of Birth" : "circa AD 780",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "44",
+            "Age at end of Papacy" : "47"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "100",
+            "Pontificate": "31 Aug 827 – 10 Oct 827",
+            "Personal Name": "Valentino Leoni",
+            "Name in English" : "Valentine", 
+            "Name in Latin" : "Papa Valentinus",
+            "Date of Birth" : "circa AD 780",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "47",
+            "Age at end of Papacy" : "47"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "101",
+            "Pontificate": "20 Dec 827 – 25 Jan 844",
+            "Personal Name": "Gregorio",
+            "Name in English" : "Gregory IV", 
+            "Name in Latin" : "Papa Gregorio Quartus",
+            "Date of Birth" : "circa AD 790",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "37",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "102",
+            "Pontificate": "25 Jan 844 – 27 Jan 847",
+            "Personal Name": "Sergio Colonna",
+            "Name in English" : "Sergius II", 
+            "Name in Latin" : "Papa Sergius Secundus",
+            "Date of Birth" : "circa AD 790",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "103",
+            "Pontificate": "10 April 847 – 17 July 855",
+            "Personal Name": "Leone",
+            "Name in English" : "St Leo IV", 
+            "Name in Latin" : "Papa Leo Quartus",
+            "Date of Birth" : "circa AD 790",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "65"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "104",
+            "Pontificate": "29 Sep 855 – 7 April 858",
+            "Personal Name": "Benedetto",
+            "Name in English" : "Benedict III", 
+            "Name in Latin" : "Papa Benedictus Tertius",
+            "Date of Birth" : "circa AD 810",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "48"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "105",
+            "Pontificate": "24 April 858 – 13 Nov 867",
+            "Personal Name": "Niccolò Colonna",
+            "Name in English" : "St Nicholas I", 
+            "Name in Latin" : "Papa Nicolaus Magnus",
+            "Date of Birth" : "circa AD 800",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "39",
+            "Age at end of Papacy" : "48"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "106",
+            "Pontificate": "14 Dec 867 – 14 Dec 872",
+            "Personal Name": "Adriano",
+            "Name in English" : "Adrian II", 
+            "Name in Latin" : "Papa Hadrianus Secundus",
+            "Date of Birth" : "circa AD 792",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "75",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "107",
+            "Pontificate": "16 Dec 882 – 15 May 884",
+            "Personal Name": "Giovanni",
+            "Name in English" : "John VIII", 
+            "Name in Latin" : "Papa Ioannes Octavus",
+            "Date of Birth" : "circa AD 820",
+            "Birthplace" : "Gallese, Papal States",
+            "Age at start of Papacy" : "52",
+            "Age at end of Papacy" : "62"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "108",
+            "Pontificate": "16 Dec 882 – 15 May 884",
+            "Personal Name": "Marino",
+            "Name in English" : "Marinus I", 
+            "Name in Latin" : "Papa Marinus",
+            "Date of Birth" : "circa AD 830",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "52",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "109",
+            "Pontificate": "17 May 884 – 15 Sep 885",
+            "Personal Name": "Adriano",
+            "Name in English" : "St Adrian III", 
+            "Name in Latin" : "Papa Hadrianus Tertius",
+            "Date of Birth" : "circa AD 830",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "110",
+            "Pontificate": "14 Sep 885 – 4 Sep 891",
+            "Personal Name": "Stefano",
+            "Name in English" : "Stephen V", 
+            "Name in Latin" : "Papa Stephanus Quintus",
+            "Date of Birth" : "circa AD 840",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "111",
+            "Pontificate": "6 Oct 891 – 4 April 896",
+            "Personal Name": "Formoso",
+            "Name in English" : "Formosus", 
+            "Name in Latin" : "Papa Formosus",
+            "Date of Birth" : "circa AD 816",
+            "Birthplace" : "Ostia, Papal States",
+            "Age at start of Papacy" : "75",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "112",
+            "Pontificate": "11 April 896 – 26 April 896",
+            "Personal Name": "Bonifacio",
+            "Name in English" : "Boniface VI", 
+            "Name in Latin" : "Papa Bonifatius Sextus",
+            "Date of Birth" : "circa AD 806",
+            "Birthplace" : "Ostia, Papal States",
+            "Age at start of Papacy" : "90",
+            "Age at end of Papacy" : "90"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "113",
+            "Pontificate": "22 May 896 – 14 Aug 897",
+            "Personal Name": "Stefano di Spoletto",
+            "Name in English" : "Stephen VI", 
+            "Name in Latin" : "Papa Stephanus Sextus ",
+            "Date of Birth" : "circa AD 850",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "47"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "114",
+            "Pontificate": "14 Aug 897 – Nov 897",
+            "Personal Name": "Romano Marini",
+            "Name in English" : "Romanus", 
+            "Name in Latin" : "Papa Romanus",
+            "Date of Birth" : "circa AD 850",
+            "Birthplace" : "Gallese, Papal States",
+            "Age at start of Papacy" : "47",
+            "Age at end of Papacy" : "47"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "115",
+            "Pontificate": "Dec 897 – 20 Dec 897",
+            "Personal Name": "Theódōros",
+            "Name in English" : "Theodore II", 
+            "Name in Latin" : "Papa Theodorus Secundus",
+            "Date of Birth" : "circa AD 840",
+            "Birthplace" : "Gallese, Papal States",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "116",
+            "Pontificate": "18 Jan 898 – 5 Jan 900",
+            "Personal Name": "Giovanni",
+            "Name in English" : "John IX", 
+            "Name in Latin" : "Papa Ioannes Nonus",
+            "Date of Birth" : "circa AD 840",
+            "Birthplace" : "Tivoli, Papal States",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "60"        
+        },
+        "current": false
+    },
+    {
+        "century" :"ninth",
+        "person":{
+            "Pontiff Number": "117",
+            "Pontificate": "1 Feb 900 – 30 July 903",
+            "Personal Name": "Benedetto",
+            "Name in English" : "Benedict IV", 
+            "Name in Latin" : "Papa Benedictus Quatus",
+            "Date of Birth" : "circa AD 840",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "63"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "118",
+            "Pontificate": "30 July 903 – Dec 903",
+            "Personal Name": "Leone Britigena",
+            "Name in English" : "Leo V", 
+            "Name in Latin" : "Papa Leo Quintus",
+            "Date of Birth" : "circa AD 845",
+            "Birthplace" : "Ardea, Papal States",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "58"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "119",
+            "Pontificate": "29 Jan 904 – 14 April 911",
+            "Personal Name": "Sergio di Tuscolo",
+            "Name in English" : "Sergius III", 
+            "Name in Latin" : "Papa Sergius Tertius",
+            "Date of Birth" : "circa AD 860",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "44",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "120",
+            "Pontificate": "14 April 911 – June 913",
+            "Personal Name": "Anastasio",
+            "Name in English" : "Anastasius III", 
+            "Name in Latin" : "Papa Anastasius Tertius",
+            "Date of Birth" : "circa AD 865",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "48"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "121",
+            "Pontificate": "7 July 913 – 5 Feb 914",
+            "Personal Name": "Lando",
+            "Name in English" : "Lando", 
+            "Name in Latin" : "Papa Lando",
+            "Date of Birth" : "circa AD 865",
+            "Birthplace" : "Sabina, Papal States",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "122",
+            "Pontificate": "March 914 – 28 May 928",
+            "Personal Name": "Giovanni",
+            "Name in English" : "John X", 
+            "Name in Latin" : "Papa Ioannes Decimus",
+            "Date of Birth" : "circa AD 860",
+            "Birthplace" : "Tossignano, Romagna ",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "123",
+            "Pontificate": "28 May 928 – Dec 928",
+            "Personal Name": "Leone",
+            "Name in English" : "Leo VI", 
+            "Name in Latin" : "Papa Leo sextus",
+            "Date of Birth" : "circa AD 880",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "48"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "124",
+            "Pontificate": "3 Feb 929 – 13 Feb 931",
+            "Personal Name": "Stefano",
+            "Name in English" : "Stephen VII", 
+            "Name in Latin" : "Papa Stephanus septimus",
+            "Date of Birth" : "circa AD 880",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "125",
+            "Pontificate": "15 March 931 – Dec 935",
+            "Personal Name": "Giovanni di Tuscolo",
+            "Name in English" : "John XI", 
+            "Name in Latin" : "Papa Ioannes Undecimus",
+            "Date of Birth" : "circa AD 910",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "21",
+            "Age at end of Papacy" : "25"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "126",
+            "Pontificate": "3 Jan 936 – 13 July 939",
+            "Personal Name": "Leone",
+            "Name in English" : "Leo VII", 
+            "Name in Latin" : "Papa Leo Septimus",
+            "Date of Birth" : "circa AD 885",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "44"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "127",
+            "Pontificate": "14 July 939 – 30 Oct 942",
+            "Personal Name": "Stefano",
+            "Name in English" : "Stephen VIII", 
+            "Name in Latin" : "Papa Stephanus Octavus",
+            "Date of Birth" : "circa AD 900",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "39",
+            "Age at end of Papacy" : "42"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "128",
+            "Pontificate": "30 Oct 942 – 1 May 946",
+            "Personal Name": "Marino",
+            "Name in English" : "Marinus II", 
+            "Name in Latin" : "Papa Marinus Secundus",
+            "Date of Birth" : "circa AD 900",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "42",
+            "Age at end of Papacy" : "46"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "129",
+            "Pontificate": "10 May 946 – 8 Nov 955",
+            "Personal Name": "Agapito",
+            "Name in English" : "Agapetus II", 
+            "Name in Latin" : "Papa Agapetus Secundus",
+            "Date of Birth" : "circa AD 905",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "130",
+            "Pontificate": "16 Dec 955 – 6 Dec 963",
+            "Second Pontificate" : "26 Feb 964 – 14 May 964",
+            "Personal Name" : "Ottaviano di Tuscolo",
+            "Name in English" : "John XII", 
+            "Name in Latin" : "Papa Ioannes Duodecimus",
+            "Date of Birth" : "circa AD 937",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "18", 
+            "Age at start of Second Papacy" : "27",
+            "Age at end of Papacy" : "26",
+            "Age at end of Second Papacy" : "27"      
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "131",
+            "Pontificate": "22 May 964 – 23 June 964",
+            "Personal Name": "Benedetto",
+            "Name in English" : "Benedict V", 
+            "Name in Latin" : "Papa Benedictus Quintus",
+            "Date of Birth" : "circa AD 915",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "132",
+            "Pontificate": "23 June 964 – 1 March 965",
+            "Personal Name": "Leone",
+            "Name in English" : "Leo VIII", 
+            "Name in Latin" : "Papa Leo Octavus",
+            "Date of Birth" : "circa AD 915",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "133",
+            "Pontificate": "1 Oct 965 – 6 Sep 972",
+            "Personal Name": "Giovanni dei Crescenzi",
+            "Name in English" : "John XIII", 
+            "Name in Latin" : "Papa Ioannes Tertius Decimus",
+            "Date of Birth" : "circa AD 930",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "52"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "134",
+            "Pontificate": "19 Jan 973 – 8 June 974",
+            "Personal Name": "Benedikt",
+            "Name in English" : "Benedict VI", 
+            "Name in Latin" : "Papa Benedictus Sextus",
+            "Date of Birth" : "circa AD 925",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "135",
+            "Pontificate": "Oct 974 – 10 July 983",
+            "Personal Name": "Benedetto di Spoleto",
+            "Name in English" : "Benedict VII", 
+            "Name in Latin" : "Papa Benedictus Septimus",
+            "Date of Birth" : "circa AD 930",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "44",
+            "Age at end of Papacy" : "53"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "136",
+            "Pontificate": "Dec 983 – 20 Aug 984",
+            "Personal Name": "Pietro Canepanora",
+            "Name in English" : "John XIV", 
+            "Name in Latin" : "Papa Ioannes Quartus Decimus",
+            "Date of Birth" : "circa AD 940",
+            "Birthplace" : "Pavia, Kingdom of Italy, Holy Roman Empire",
+            "Age at start of Papacy" : "43",
+            "Age at end of Papacy" : "44"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "137",
+            "Pontificate": "20 Aug 985 – 1 April 996",
+            "Personal Name": "Giovanni di Gallina Alba",
+            "Name in English" : "John XV", 
+            "Name in Latin" : "Papa Ioannes Quintus Decimus",
+            "Date of Birth" : "circa AD 950",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "35",
+            "Age at end of Papacy" : "46"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "138",
+            "Pontificate": "3 May 996 – 18 Feb 999",
+            "Personal Name": "Bruno von Kärnten",
+            "Name in English" : "Gregory V", 
+            "Name in Latin" : "Papa Gregorius Quintus",
+            "Date of Birth" : "circa AD 972",
+            "Birthplace" : "Stainach, Duchy of Carinthia, Holy Roman Empire",
+            "Age at start of Papacy" : "24",
+            "Age at end of Papacy" : "27"        
+        },
+        "current": false
+    },
+    {
+        "century" :"tenth",
+        "person":{
+            "Pontiff Number": "139",
+            "Pontificate": "2 April 999 – 12 May 1003",
+            "Personal Name": "Gerbert d'Aurillac",
+            "Name in English" : "Sylvester II", 
+            "Name in Latin" : "Papa Silvester Secundus",
+            "Date of Birth" : "circa AD 940",
+            "Birthplace" : "Belliac, France",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "58"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "140",
+            "Pontificate": "16 May 1003 – 6 Nov 1003",
+            "Personal Name": "Siccone Secchi",
+            "Name in English" : "John XVII", 
+            "Name in Latin" : "Papa Ioannes Septimus Decimus",
+            "Date of Birth" : "circa AD 955",
+            "Birthplace" : "Belliac, France",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "48"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "141",
+            "Pontificate": "25 December 1003 – 18 July 1009",
+            "Personal Name": "Giovanni Fasano",
+            "Name in English" : "John XVIII", 
+            "Name in Latin" : "Papa Ioannes Duodevi-cesimus",
+            "Date of Birth" : "circa AD 965",
+            "Birthplace" : "Rapagnano, Papal States",
+            "Age at start of Papacy" : "43",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "142",
+            "Pontificate": "31 July 1009 – 12 May 1012",
+            "Personal Name": "Pietro Martino Boccadiporco",
+            "Name in English" : "Sergius IV", 
+            "Name in Latin" : "Papa Sergius Quartus",
+            "Date of Birth" : "circa AD 970",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "39",
+            "Age at end of Papacy" : "42"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "143",
+            "Pontificate": "18 May 1012 – 9 April 1024",
+            "Personal Name": "Teofilatto di Tuscolo",
+            "Name in English" : "Benedict VIII", 
+            "Name in Latin" : "Papa Benedictus Octavus",
+            "Date of Birth" : "circa AD 980",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "32",
+            "Age at end of Papacy" : "44"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "144",
+            "Pontificate": "14 May 1024 – 6 Oct 1032",
+            "Personal Name": "Romano di Tuscolo",
+            "Name in English" : "John XIX", 
+            "Name in Latin" : "Papa Ioannes Undevices-imus",
+            "Date of Birth" : "circa AD 975",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "145",
+            "Pontificate": "21 October 1032 – 31 Dec 1044",
+            "Personal Name": "Teofilatto di Tuscolo",
+            "Name in English" : "Benedict IX", 
+            "Name in Latin" : "Papa Benedictus Nonus",
+            "Date of Birth" : "circa AD n/a",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "20",
+            "Age at end of Papacy" : "32"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "146",
+            "Pontificate": "13 January 1045 – 10 March 1045",
+            "Personal Name": "Giovanni dei Crescenzi Ottaviani",
+            "Name in English" : "Sylvester III", 
+            "Name in Latin" : "Papa Silvester Tertius",
+            "Date of Birth" : "circa AD 1000",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "45"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "147",
+            "Pontificate": "10 March 1045 – 1 May 1045",
+            "Personal Name": "Teofilatto di Tuscolo",
+            "Name in English" : "Benedict IX", 
+            "Name in Latin" : "Papa Benedictus Nonus",
+            "Date of Birth" : "circa AD n/a",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "33",
+            "Age at end of Papacy" : "33"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "148",
+            "Pontificate": "5 May 1045 – 20 Dec 1046",
+            "Personal Name": "Giovanni Graziano Pierleoni",
+            "Name in English" : "Gregory VI", 
+            "Name in Latin" : "Papa Gregorius Sextus",
+            "Date of Birth" : "circa AD 1000",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "46"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "149",
+            "Pontificate": "24 December 1046 – 9 Oct 1047",
+            "Personal Name": "Suidger von Morsleben-Hornburg",
+            "Name in English" : "Clement II", 
+            "Name in Latin" : "Papa Clemens Secundus",
+            "Date of Birth" : "circa AD 967",
+            "Birthplace" : "Hornburg, Duchy of Saxony, Holy Roman Empire",
+            "Age at start of Papacy" : "79",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "150",
+            "Pontificate": "8 November 1047 – 17 July 1048",
+            "Personal Name": "Teofilatto di Tuscolo",
+            "Name in English" : "Benedict IX", 
+            "Name in Latin" : "Papa Benedictus Nonus",
+            "Date of Birth" : "circa AD 1012",
+            "Birthplace" : "Rome, Papal states",
+            "Age at start of Papacy" : "79",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "151",
+            "Pontificate": "16 July 1048 – 9 Aug 1048",
+            "Personal Name": "Poppo de Curagnoni",
+            "Name in English" : "Damasus II", 
+            "Name in Latin" : "Papa Samasus Secundus",
+            "Date of Birth" : "circa AD 1000",
+            "Birthplace" : "Pildenau, Duchy of Bavaria, Holy Roman Empire",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "48"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "152",
+            "Pontificate": "12 February 1049 – 19 April 1054",
+            "Personal Name": "Bruno von Egisheim-Dagsburg",
+            "Name in English" : "St Leo IX", 
+            "Name in Latin" : "Papa Leo Nonus",
+            "Date of Birth" : "AD 21 July 1002",
+            "Birthplace" : "Eguisheim, Duchy of Swabia, Holy Roman Empire",
+            "Age at start of Papacy" : "47",
+            "Age at end of Papacy" : "51"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "153",
+            "Pontificate": "13 April 1055 – 28 July 1057",
+            "Personal Name": "Gebhard II von Calw-Dollnstein-Hirschberg",
+            "Name in English" : "Victor II", 
+            "Name in Latin" : "Papa Victor Secundus",
+            "Date of Birth" : "circa AD 1018",
+            "Birthplace" : "Duchy of Swabia, Holy Roman Empire",
+            "Age at start of Papacy" : "37",
+            "Age at end of Papacy" : "39"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "154",
+            "Pontificate": "2 August 1057 – 29 March 1058",
+            "Personal Name": "Frederich, Herzog von Lothringen",
+            "Name in English" : "Stephen IX", 
+            "Name in Latin" : "Papa Stephanus Nonus",
+            "Date of Birth" : "circa AD 1020",
+            "Birthplace" : "Duchy of Lorraine, Holy Roman Empire",
+            "Age at start of Papacy" : "37",
+            "Age at end of Papacy" : "38"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "155",
+            "Pontificate": "6 December 1058 – 27 July 1061",
+            "Personal Name": "Gerald de Bourgogne",
+            "Name in English" : "Nicholas II", 
+            "Name in Latin" : "Papa Nicolaus Secundus",
+            "Date of Birth" : "circa AD 980",
+            "Birthplace" : "Château de Chevron, County of Savoy, Holy Roman Empire",
+            "Age at start of Papacy" : "78",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "156",
+            "Pontificate": "30 September 1061 – 21 April 1073",
+            "Personal Name": "Anselmo da Baggio",
+            "Name in English" : "Alexander II", 
+            "Name in Latin" : "Papa Alexander Secundus",
+            "Date of Birth" : "circa AD 1018",
+            "Birthplace" : "Baggio, Milan, Holy Roman Empire",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "58"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "157",
+            "Pontificate": "22 April 1073 – 25 May 1085",
+            "Personal Name": "Ildebrando Aldobrandeschi di Soana",
+            "Name in English" : "St Gregory VII", 
+            "Name in Latin" : "Papa Gregorius Septimus",
+            "Date of Birth" : "circa AD 1015",
+            "Birthplace" : "Sovana, March of Tuscany, Holy Roman Empire",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "60"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "158",
+            "Pontificate": "24 May 1086 – 16 Sep 1087",
+            "Personal Name": "Dauferio Epifanio",
+            "Name in English" : "Bl. Victor III", 
+            "Name in Latin" : "Papa Victor Tertius",
+            "Date of Birth" : "circa AD 1026",
+            "Birthplace" : "Benevento, Duchy of Benevento",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "61"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "159",
+            "Pontificate": "12 March 1088 – 29 July 1099",
+            "Personal Name": "Odon de Lagery",
+            "Name in English" : "Bl. Urban II", 
+            "Name in Latin" : "Papa Ubanus Secundus",
+            "Date of Birth" : "circa AD 1042",
+            "Birthplace" : "Châtillon-sur-Marne, County of Champagne, France",
+            "Age at start of Papacy" : "46",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eleventh",
+        "person":{
+            "Pontiff Number": "160",
+            "Pontificate": "13 August 1099 – 21 Jan 1118",
+            "Personal Name": "Rainero Ranieri",
+            "Name in English" : "Paschal II", 
+            "Name in Latin" : "Papa Paschalis Secundus",
+            "Date of Birth" : "circa AD 1050",
+            "Birthplace" : "Bleda, March of Tuscany, Holy Roman Empire",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "161",
+            "Pontificate": "24 January 1118 – 29 Jan 1119",
+            "Personal Name": "Giovanni Caetani",
+            "Name in English" : "Gelasius II", 
+            "Name in Latin" : "Papa Gelasius Secundus",
+            "Date of Birth" : "circa AD 1061",
+            "Birthplace" : "Gaeta, Duchy of Gaeta",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "58"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "162",
+            "Pontificate": "2 February 1119 – 13 Dec 1124",
+            "Personal Name": "Guy de Bourgogne",
+            "Name in English" : "Callixtus II", 
+            "Name in Latin" : "Papa Callistus Secundus",
+            "Date of Birth" : "circa AD 1060",
+            "Birthplace" : "Quingey, Franche-Comté",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "64"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "163",
+            "Pontificate": "21 December 1124 – 13 Feb 1130",
+            "Personal Name": "Lamberto Scannabecchi da Fiagnano",
+            "Name in English" : "Honorius II", 
+            "Name in Latin" : "Papa Honorius Secundus",
+            "Date of Birth" : "AD 9 February 1060",
+            "Birthplace" : "Fiagnano, Romagna, Holy Roman Empire",
+            "Age at start of Papacy" : "64",
+            "Age at end of Papacy" : "70"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "164",
+            "Pontificate": "14 February 1130 – 24 Sep 1143",
+            "Personal Name": "Gregorio Papareschi",
+            "Name in English" : "Innocent II", 
+            "Name in Latin" : "Papa Innocentius Secundus",
+            "Date of Birth" : "circa AD 1082",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "61"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "165",
+            "Pontificate": "26 September 1143 – 8 March 1144",
+            "Personal Name": "Guido Guelfuccio de Castello",
+            "Name in English" : "Celestine II", 
+            "Name in Latin" : "Papa Coelestinus Secundus",
+            "Date of Birth" : "circa AD 1085",
+            "Birthplace" : "Città di Castello, Papal States",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "59"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "166",
+            "Pontificate": "12 March 1144 – 15 Feb 1145",
+            "Personal Name": "Gherardo Caccianemici dall'Orso",
+            "Name in English" : "Lucius II", 
+            "Name in Latin" : "Papa Lucius Secundus",
+            "Date of Birth" : "circa AD 1095",
+            "Birthplace" : "Bologna, Holy Roman Empire",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "167",
+            "Pontificate": "15 February 1145 – 8 July 1153",
+            "Personal Name": "Pietro dei Paganelli di Montemagno",
+            "Name in English" : "Bl. Eugene III", 
+            "Name in Latin" : "Papa Eugenius Tertius",
+            "Date of Birth" : "circa AD 1080",
+            "Birthplace" : "Montemagno, Republic of Pisa",
+            "Age at start of Papacy" : "44",
+            "Age at end of Papacy" : "52"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "168",
+            "Pontificate": "12 July 1153 – 3 Dec 1154",
+            "Personal Name": "Corrado Demitri della Suburra",
+            "Name in English" : "Anastasius IV", 
+            "Name in Latin" : "Papa Anastasius Quartus",
+            "Date of Birth" : "circa AD 1073",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "80",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "169",
+            "Pontificate": "4 December 1154 – 1 Sep 1159",
+            "Personal Name": "Nicholas Breakspear",
+            "Name in English" : "Adrian IV", 
+            "Name in Latin" : "Papa Hadrianus Quartus",
+            "Date of Birth" : "circa AD 1100",
+            "Birthplace" : "Abbots Langley, Hertfordshire, Kingdom of England",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "59"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "170",
+            "Pontificate": "7 September 1159 – 30 Aug 1181",
+            "Personal Name": "Rolando Bandinelli",
+            "Name in English" : "Alexander III", 
+            "Name in Latin" : "Papa Alexander Tertius",
+            "Date of Birth" : "circa AD 1100",
+            "Birthplace" : "Siena, Republic of Siena",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "171",
+            "Pontificate": "1 September 1181 – 25 Nov 1185",
+            "Personal Name": "Ubaldo Allucignoli",
+            "Name in English" : "Lucius III", 
+            "Name in Latin" : "Papa Lucius Tertius",
+            "Date of Birth" : "circa AD 1097",
+            "Birthplace" : "Lucca, March of Tuscany, Holy Roman Empire",
+            "Age at start of Papacy" : "84",
+            "Age at end of Papacy" : "88"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "172",
+            "Pontificate": "25 November 1185 – 20 Oct 1187",
+            "Personal Name": "Uberto Crivelli",
+            "Name in English" : "Urban III", 
+            "Name in Latin" : "Papa Urbanus Tertius",
+            "Date of Birth" : "circa AD 1105",
+            "Birthplace" : "Cuggiono, Holy Roman Empire",
+            "Age at start of Papacy" : "67",
+            "Age at end of Papacy" : "67"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "173",
+            "Pontificate": "21 October 1187 – 17 Dec 1187",
+            "Personal Name": "Alberto de Morra",
+            "Name in English" : "Gregory VIII", 
+            "Name in Latin" : "Papa Gregorius Octavus",
+            "Date of Birth" : "circa AD 1105",
+            "Birthplace" : "Benevento, Papal States",
+            "Age at start of Papacy" : "82",
+            "Age at end of Papacy" : "82"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "174",
+            "Pontificate": "19 December 1187 – 20 March 1191",
+            "Personal Name": "Paolo Scolari",
+            "Name in English" : "Clement III", 
+            "Name in Latin" : "Papa Clemens Tertius",
+            "Date of Birth" : "circa AD 1130",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "61"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "175",
+            "Pontificate": "30 March 1191 – 8 Jan 1198",
+            "Personal Name": "Giacinto Bobone Orsini",
+            "Name in English" : "Celestine III", 
+            "Name in Latin" : "Papa Coelestinus Tertius",
+            "Date of Birth" : "circa AD 1106",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "85",
+            "Age at end of Papacy" : "92"        
+        },
+        "current": false
+    },
+    {
+        "century" :"twelfth",
+        "person":{
+            "Pontiff Number": "176",
+            "Pontificate": "8 January 1198 – 16 July 1216",
+            "Personal Name": "Lotario dei Conti di Segni",
+            "Name in English" : "Innocent III", 
+            "Name in Latin" : "Papa Innocentius Tertius",
+            "Date of Birth" : "circa AD 1161",
+            "Birthplace" : "Gavignano, Papal States",
+            "Age at start of Papacy" : "37",
+            "Age at end of Papacy" : "55"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "177",
+            "Pontificate": "18 July 1216 – 18 March 1227",
+            "Personal Name": "Cencio Savelli",
+            "Name in English" : "Honorius III", 
+            "Name in Latin" : "Papa Honorius Tertius",
+            "Date of Birth" : "circa AD 1148",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "68",
+            "Age at end of Papacy" : "79"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "178",
+            "Pontificate": "19 March 1227 – 22 Aug 1241",
+            "Personal Name": "Ugolino dei Conti di Segni",
+            "Name in English" : "Gregory IX", 
+            "Name in Latin" : "Papa Gregorius Nonus",
+            "Date of Birth" : "circa AD 1145",
+            "Birthplace" : "Anagni, Papal States",
+            "Age at start of Papacy" : "82",
+            "Age at end of Papacy" : "96"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "179",
+            "Pontificate": "25 October 1241 – 10 Nov 1241",
+            "Personal Name": "Goffredo Castiglioni",
+            "Name in English" : "Celestine IV", 
+            "Name in Latin" : "Papa Coelestinus Quartus",
+            "Date of Birth" : "circa AD 1180",
+            "Birthplace" : "Milan, Italy, Holy Roman Empire",
+            "Age at start of Papacy" : "61",
+            "Age at end of Papacy" : "61"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "180",
+            "Pontificate": "25 June 1243 – 7 Dec 1254",
+            "Personal Name": "Sinibaldo Fieschi",
+            "Name in English" : "Innocent IV", 
+            "Name in Latin" : "Papa Innocentius Quartus",
+            "Date of Birth" : "circa AD 1195",
+            "Birthplace" : "Genoa, Republic of Genoa, Holy Roman Empire",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "60"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "181",
+            "Pontificate": "12 December 1254 – 25 May 1261",
+            "Personal Name": "Rinaldo dei Conti di Jenne",
+            "Name in English" : "Alexander IV", 
+            "Name in Latin" : "Papa Alexander Quartus",
+            "Date of Birth" : "circa AD 1199",
+            "Birthplace" : "Jenne, Papal States",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "62"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "182",
+            "Pontificate": "29 August 1261 – 2 Oct 1264",
+            "Personal Name": "Jacques Pantaléon",
+            "Name in English" : "Urban IV", 
+            "Name in Latin" : "Papa Urbanus Quartus",
+            "Date of Birth" : "circa AD 1195",
+            "Birthplace" : "Troyes, County of Champagne, France",
+            "Age at start of Papacy" : "66",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "183",
+            "Pontificate": "5 February 1265 – 29 Nov 1268",
+            "Personal Name": "Gui Faucoi",
+            "Name in English" : "Clement IV", 
+            "Name in Latin" : "Papa Clemens Quartus",
+            "Date of Birth" : "AD 23 November 1190",
+            "Birthplace" : "Saint-Gilles, Languedoc, France",
+            "Age at start of Papacy" : "66",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "184",
+            "Pontificate": "1 September 1271 – 10 Jan 1276",
+            "Personal Name": "Tebaldo Visconti",
+            "Name in English" : "Bl. Gregory X", 
+            "Name in Latin" : "Papa Gregorius Decimus",
+            "Date of Birth" : "circa AD 1210",
+            "Birthplace" : "Piacenza, Italy, Holy Roman Empire",
+            "Age at start of Papacy" : "51",
+            "Age at end of Papacy" : "66"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "185",
+            "Pontificate": "21 January 1276 – 22 June 1276",
+            "Personal Name": "Pierre de Tarentaise",
+            "Name in English" : "Bl. Innocent V", 
+            "Name in Latin" : "Papa Innocentius Quintus",
+            "Date of Birth" : "circa AD 1225",
+            "Birthplace" : "County of Savoy, Holy Roman Empire",
+            "Age at start of Papacy" : "52",
+            "Age at end of Papacy" : "52"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "186",
+            "Pontificate": "11 July 1276 – 18 Aug 1276",
+            "Personal Name": "Ottobuono Fieschi",
+            "Name in English" : "Adrian V", 
+            "Name in Latin" : "Papa Adrianus Quintus",
+            "Date of Birth" : "circa AD 1216",
+            "Birthplace" : "Genoa, Republic of Genoa, Holy Roman Empire",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "60"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "187",
+            "Pontificate": "8 September 1276 – 20 May 1277",
+            "Personal Name": "Pedro Julião",
+            "Name in English" : "John XXI", 
+            "Name in Latin" : "Papa Ioannes Vicesimus Primus",
+            "Date of Birth" : "circa AD 1215",
+            "Birthplace" : "Lisbon, Portugal",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "70"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "188",
+            "Pontificate": "25 November 1277 – 22 Aug 1280",
+            "Personal Name": "Giovanni Gaetano Orsini",
+            "Name in English" : "Nicholas III", 
+            "Name in Latin" : "Papa Nicolaus Tertius",
+            "Date of Birth" : "circa AD 1216",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "61",
+            "Age at end of Papacy" : "64"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "189",
+            "Pontificate": "22 February 1281 – 28 March 1285",
+            "Personal Name": "Simon de Brion",
+            "Name in English" : "Martin IV", 
+            "Name in Latin" : "Papa Martinus Quartus",
+            "Date of Birth" : "circa AD 1210",
+            "Birthplace" : "Meinpicien, Touraine, France",
+            "Age at start of Papacy" : "71",
+            "Age at end of Papacy" : "75"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "190",
+            "Pontificate": "2 April 1285 – 3 April 1287",
+            "Personal Name": "Giacomo Savelli",
+            "Name in English" : "Honorius IV", 
+            "Name in Latin" : "Papa Honorius Quartus",
+            "Date of Birth" : "circa AD 1210",
+            "Birthplace" : "Rome, Papal States",
+            "Age at start of Papacy" : "75",
+            "Age at end of Papacy" : "77"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "191",
+            "Pontificate": "22 February 1288 – 4 April 1292",
+            "Personal Name": "Girolamo Masc",
+            "Name in English" : "Nicholas IV", 
+            "Name in Latin" : "Papa Nicolaus Quartus",
+            "Date of Birth" : "AD 30 September 1227",
+            "Birthplace" : "Lisciano, Papal States",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "64"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "192",
+            "Pontificate": "5 July 1294 – 13 Dec 1294",
+            "Personal Name": "Pietro Angelerio",
+            "Name in English" : "St Celestine V", 
+            "Name in Latin" : "Papa Coelestinus Quintus",
+            "Date of Birth" : "circa AD 1207",
+            "Birthplace" : "Sant'Angelo Limosano, Kingdom of Sicily",
+            "Age at start of Papacy" : "87",
+            "Age at end of Papacy" : "87"        
+        },
+        "current": false
+    },
+    {
+        "century" :"thirteenth",
+        "person":{
+            "Pontiff Number": "193",
+            "Pontificate": "24 December 1294 – 11 Oct 1303",
+            "Personal Name": "Benedetto Caetani",
+            "Name in English" : "Boniface VIII", 
+            "Name in Latin" : "Papa Bonifatius Octavus",
+            "Date of Birth" : "circa AD 1230",
+            "Birthplace" : "Anagni, Papal State",
+            "Age at start of Papacy" : "64",
+            "Age at end of Papacy" : "73"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "194",
+            "Pontificate": "22 October 1303 – 7 July 1304",
+            "Personal Name": "Niccolò Boccasini",
+            "Name in English" : "Bl. Benedict XI", 
+            "Name in Latin" : "Papa Benedictus Undecimus",
+            "Date of Birth" : "circa AD 1240",
+            "Birthplace" : "Treviso, Papal States",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "64"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "195",
+            "Pontificate": "5 June 1305 – 20 April 1314",
+            "Personal Name": "Raymond Bertrand de Gouth",
+            "Name in English" : "Clement V", 
+            "Name in Latin" : "Papa Clemens Quintus",
+            "Date of Birth" : "circa AD 1264",
+            "Birthplace" : "Villandraut, Gascony, France",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "196",
+            "Pontificate": "7 August 1316 – 4 Dec 1334",
+            "Personal Name": "Jacques d'Euse",
+            "Name in English" : "John XXII", 
+            "Name in Latin" : "Papa Ioannes Vicesimus Secundus",
+            "Date of Birth" : "circa AD 1244",
+            "Birthplace" : "Cahors, Quercy, France",
+            "Age at start of Papacy" : "72",
+            "Age at end of Papacy" : "90"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "197",
+            "Pontificate": "20 December 1334 – 25 April 1342",
+            "Personal Name": "Jacques Fournier",
+            "Name in English" : "Benedict XII", 
+            "Name in Latin" : "Papa Ioannes Benedictus Duodecimus",
+            "Date of Birth" : "circa AD 1280",
+            "Birthplace" : "Cahors, Quercy, France",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "62"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "198",
+            "Pontificate": "7 May 1342 – 6 Dec 1352",
+            "Personal Name": "Pierre Roger",
+            "Name in English" : "Clement VI", 
+            "Name in Latin" : "Papa Clemens Sextus",
+            "Date of Birth" : "circa AD 1291",
+            "Birthplace" : "Maumont, Limousin, France",
+            "Age at start of Papacy" : "51",
+            "Age at end of Papacy" : "61"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "199",
+            "Pontificate": "18 December 1352 – 12 Sep 1362",
+            "Personal Name": "Étienne Aubert",
+            "Name in English" : "Innocent VI", 
+            "Name in Latin" : "Papa Innocentius Sextus",
+            "Date of Birth" : "circa AD 1282",
+            "Birthplace" : "Les Monts, Limousin, France",
+            "Age at start of Papacy" : "70",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "200",
+            "Pontificate": "28 September 1362 – 19 Dec 1370",
+            "Personal Name": "Guillaume DeGrimoard",
+            "Name in English" : "Bl. Urban V", 
+            "Name in Latin" : "Papa Urbanus Quintus",
+            "Date of Birth" : "circa AD 1309",
+            "Birthplace" : "Grizac, Languedoc, France",
+            "Age at start of Papacy" : "53",
+            "Age at end of Papacy" : "61"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "201",
+            "Pontificate": "30 December 1370 – 27 March 1378",
+            "Personal Name": "Pierre Roger de Beaufort",
+            "Name in English" : "Gregory XI", 
+            "Name in Latin" : "Papa Gregorius Undecimus",
+            "Date of Birth" : "circa AD 1329",
+            "Birthplace" : "Maumont, Limousin, France",
+            "Age at start of Papacy" : "41",
+            "Age at end of Papacy" : "49"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "202",
+            "Pontificate": "8 April 1378 – 15 Oct 1389",
+            "Personal Name": "Bartolomeo Prignano",
+            "Name in English" : "Urban VI", 
+            "Name in Latin" : "Papa Urbanus Sextus",
+            "Date of Birth" : "circa AD 1318",
+            "Birthplace" : "Naples, Kingdom of Naples",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "71"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fourteenth",
+        "person":{
+            "Pontiff Number": "203",
+            "Pontificate": "2 November 1389 – 1 Oct 1404",
+            "Personal Name": "Pietro Tomacelli Cybo",
+            "Name in English" : "Boniface IX", 
+            "Name in Latin" : "Papa Bonifatius Nonus",
+            "Date of Birth" : "circa AD 1348",
+            "Birthplace" : "Naples, Kingdom of Naples",
+            "Age at start of Papacy" : "35",
+            "Age at end of Papacy" : "50"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "204",
+            "Pontificate": "17 October 1404 – 6 Nov 1406",
+            "Personal Name": "Cosimo Gentile Migliorati",
+            "Name in English" : "Innocent VII", 
+            "Name in Latin" : "Papa Innocentius Septimus",
+            "Date of Birth" : "circa AD 1336",
+            "Birthplace" : "Sulmona, Kingdom of Naples",
+            "Age at start of Papacy" : "68",
+            "Age at end of Papacy" : "71"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "205",
+            "Pontificate": "30 November 1406 – 4 July 1415",
+            "Personal Name": "Angelo Correr",
+            "Name in English" : "Gregory XII", 
+            "Name in Latin" : "Papa Gregorius Duodecimus",
+            "Date of Birth" : "AD 14 May 1324 ",
+            "Birthplace" : "Venice, Republic of Venice",
+            "Age at start of Papacy" : "82",
+            "Age at end of Papacy" : "91"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "206",
+            "Pontificate": "11 November 1417 – 20 Feb 1431",
+            "Personal Name": "Oddone Colonna",
+            "Name in English" : "Martin V", 
+            "Name in Latin" : "Papa Martinus Quintus",
+            "Date of Birth" : "AD January 1396",
+            "Birthplace" : "Genazzano, Papal States",
+            "Age at start of Papacy" : "48",
+            "Age at end of Papacy" : "62"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "207",
+            "Pontificate": "3 March 1431 – 23 Feb 1447",
+            "Personal Name": "Gabriele Condulmer",
+            "Name in English" : "Eugene IV", 
+            "Name in Latin" : "Papa Eugenius Quartus",
+            "Date of Birth" : "AD 1383",
+            "Birthplace" : "Venice, Republic of Venice",
+            "Age at start of Papacy" : "47",
+            "Age at end of Papacy" : "63"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "208",
+            "Pontificate": "6 March 1447 – 24 March 1455",
+            "Personal Name": "Tommaso Parentucelli",
+            "Name in English" : "Nicholas V", 
+            "Name in Latin" : "Papa Nicolaus Quintus",
+            "Date of Birth" : "AD 13 November 1397",
+            "Birthplace" : "Sarzana, Republic of Genoa",
+            "Age at start of Papacy" : "49",
+            "Age at end of Papacy" : "57"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "209",
+            "Pontificate": "8 April 1455 – 6 Aug 1458",
+            "Personal Name": "Alfonso de Borja",
+            "Name in English" : "Callixtus III", 
+            "Name in Latin" : "Papa Callistus Tertius",
+            "Date of Birth" : "AD 31 December 1378",
+            "Birthplace" : "Xàtiva, Kingdom of Valencia, Crown of Aragon",
+            "Age at start of Papacy" : "76",
+            "Age at end of Papacy" : "79"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "210",
+            "Pontificate": "19 August 1458 – 15 Aug 1464",
+            "Personal Name": "Enea Silvio Piccolomini",
+            "Name in English" : "Pius II", 
+            "Name in Latin" : "Papa Pius Secundus",
+            "Date of Birth" : "AD 18 October 1405",
+            "Birthplace" : "Corsignano, Republic of Siena",
+            "Age at start of Papacy" : "52",
+            "Age at end of Papacy" : "58"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "211",
+            "Pontificate": "30 August 1464 – 26 July 1471",
+            "Personal Name": "Pietro Barbo",
+            "Name in English" : "Paul II", 
+            "Name in Latin" : "Papa Paulus Secundus",
+            "Date of Birth" : "AD 23 February 1417",
+            "Birthplace" : "Venice, Republic of Venice",
+            "Age at start of Papacy" : "47",
+            "Age at end of Papacy" : "54"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "212",
+            "Pontificate": "9 August 1471 – 12 Aug 1484",
+            "Personal Name": "Francesco della Rovere",
+            "Name in English" : "Sixtus IV", 
+            "Name in Latin" : "Papa Xystus Quatrus",
+            "Date of Birth" : "AD 21 July 1414 ",
+            "Birthplace" : "Celle Ligure, Republic of Genoa",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "70"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "213",
+            "Pontificate": "29 August 1484 – 25 July 1492",
+            "Personal Name": "Giovanni Battista Cybo",
+            "Name in English" : "Innocent VIII", 
+            "Name in Latin" : "Papa Innocentius Octavus",
+            "Date of Birth" : "AD 1432",
+            "Birthplace" : "Genoa, Republic of Genoa",
+            "Age at start of Papacy" : "51",
+            "Age at end of Papacy" : "59"        
+        },
+        "current": false
+    },
+    {
+        "century" :"fifteenth",
+        "person":{
+            "Pontiff Number": "214",
+            "Pontificate": "11 August 1492 – 18 Aug 1503",
+            "Personal Name": "Roderic Llançol i de Borja",
+            "Name in English" : "Alexander VI", 
+            "Name in Latin" : "Papa Alexander Sextus",
+            "Date of Birth" : "AD 1 January 1431",
+            "Birthplace" : "Xàtiva, Kingdom of Valencia, Crown of Aragon",
+            "Age at start of Papacy" : "61",
+            "Age at end of Papacy" : "72"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "215",
+            "Pontificate": "22 September 1503 – 18 Oct 1503",
+            "Personal Name": "Francesco Todeschini Piccolomini",
+            "Name in English" : "Pius III", 
+            "Name in Latin" : "Papa Pius Tertius",
+            "Date of Birth" : "AD 29 May 1439 ",
+            "Birthplace" : "Siena, Republic of Siena",
+            "Age at start of Papacy" : "64",
+            "Age at end of Papacy" : "64"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "216",
+            "Pontificate": "31 October 1503 – 21 Feb 1513",
+            "Personal Name": "Giuliano della Rovere",
+            "Name in English" : "Julius II", 
+            "Name in Latin" : "Papa Julius Secundus",
+            "Date of Birth" : "AD 5 December 1443",
+            "Birthplace" : "Albisola, Republic of Genoa",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "217",
+            "Pontificate": "9 March 1513 – 1 Dec 1521",
+            "Personal Name": "Giovanni di Lorenzo de' Medici",
+            "Name in English" : "Leo X", 
+            "Name in Latin" : "Papa Leo Decimus",
+            "Date of Birth" : "AD 11 December 1475 ",
+            "Birthplace" : "Florence, Republic of Florence",
+            "Age at start of Papacy" : "37",
+            "Age at end of Papacy" : "45"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "218",
+            "Pontificate": "9 January 1522 – 14 Sep 1523",
+            "Personal Name": "Adriaan Floriszoon Boeyens",
+            "Name in English" : "Adrian VI", 
+            "Name in Latin" : "Papa Hadrianus Sextus",
+            "Date of Birth" : "AD 2 March 1459 ",
+            "Birthplace" : "Utrecht, Bishopric of Utrecht, Holy Roman Empire",
+            "Age at start of Papacy" : "62",
+            "Age at end of Papacy" : "64"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "219",
+            "Pontificate": "26 November 1523 – 25 Sep 1534",
+            "Personal Name": "Giulio di Giuliano de' Medici",
+            "Name in English" : "Clement VII", 
+            "Name in Latin" : "Papa Clemens Septimus",
+            "Date of Birth" : "AD 26 May 1478",
+            "Birthplace" : "Florence, Republic of Florence",
+            "Age at start of Papacy" : "45",
+            "Age at end of Papacy" : "56"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "220",
+            "Pontificate": "13 October 1534 – 10 Nov 1549",
+            "Personal Name": "Alessandro Farnese",
+            "Name in English" : "Paul III", 
+            "Name in Latin" : "Papa Paulus Tertius",
+            "Date of Birth" : "AD 29 February 1468",
+            "Birthplace" : "Canino, Lazio, Papal States",
+            "Age at start of Papacy" : "66",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "221",
+            "Pontificate": "7 February 1550 – 29 March 1555",
+            "Personal Name": "Giovanni Maria Ciocchi del Monte",
+            "Name in English" : "Julius III", 
+            "Name in Latin" : "Papa Julius Tertius",
+            "Date of Birth" : "AD 10 September 1487",
+            "Birthplace" : "Rome, Lazio, Papal States",
+            "Age at start of Papacy" : "62",
+            "Age at end of Papacy" : "67"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "222",
+            "Pontificate": "9 April 1555 – 1 May 1555",
+            "Personal Name": "Marcello Cervini degli Spannochi",
+            "Name in English" : "Marcellus II", 
+            "Name in Latin" : "Papa Marcellus Secundus",
+            "Date of Birth" : "AD 6 May 1501 ",
+            "Birthplace" : "Montefano, Marche, Papal States",
+            "Age at start of Papacy" : "53",
+            "Age at end of Papacy" : "53"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "223",
+            "Pontificate": "23 May 1555 – 18 Aug 1559",
+            "Personal Name": "Giovanni Pietro Carafa",
+            "Name in English" : "Paul IV", 
+            "Name in Latin" : "Papa Paulus Quartus",
+            "Date of Birth" : "AD 28 June 1476",
+            "Birthplace" : "Capriglia Irpina, Campania, Kingdom of Naples",
+            "Age at start of Papacy" : "78",
+            "Age at end of Papacy" : "83"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "224",
+            "Pontificate": "26 December 1559 – 9 Dec 1565",
+            "Personal Name": "Giovanni Angelo Medici",
+            "Name in English" : "Pius IV", 
+            "Name in Latin" : "Papa Pius Quartus",
+            "Date of Birth" : "AD 31 March 1499 ",
+            "Birthplace" : "Milan, Duchy of Milan",
+            "Age at start of Papacy" : "60",
+            "Age at end of Papacy" : "66"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "225",
+            "Pontificate": "7 January 1566 – 1 May 1572",
+            "Personal Name": "Antonio Ghislieri",
+            "Name in English" : "St Pius V", 
+            "Name in Latin" : "Papa Pius Quintus",
+            "Date of Birth" : "AD 17 January 1504",
+            "Birthplace" : "Bosco, Piedmont, Duchy of Milan",
+            "Age at start of Papacy" : "61",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "226",
+            "Pontificate": "13 May 1572 – 10 April 1585",
+            "Personal Name": "Ugo Boncompagni",
+            "Name in English" : "Gregory XIII", 
+            "Name in Latin" : "Papa Gregorius Tertius Decimus",
+            "Date of Birth" : "AD 7 January 1502",
+            "Birthplace" : "Bologna, Emilia-Romagna, Papal States",
+            "Age at start of Papacy" : "70",
+            "Age at end of Papacy" : "83"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "227",
+            "Pontificate": "24 April 1585 – 27 Aug 1590",
+            "Personal Name": "Felice Peretti di Montalto",
+            "Name in English" : "Sixtus V", 
+            "Name in Latin" : "Papa Xystus Quintus",
+            "Date of Birth" : "AD 13 December 1521",
+            "Birthplace" : "Grottammare, Marche, Papal States",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "228",
+            "Pontificate": "15 September 1590 – 27 Sep 1590",
+            "Personal Name": "Giovanni Battista Castagna",
+            "Name in English" : "Urban VII", 
+            "Name in Latin" : "Papa Urbanus Septimus",
+            "Date of Birth" : "AD 4 August 1521",
+            "Birthplace" : "Rome, Lazio, Papal States",
+            "Age at start of Papacy" : "69",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "229",
+            "Pontificate": "5 December 1590 – 16 Oct 1591",
+            "Personal Name": "Niccolò Sfondrati",
+            "Name in English" : "Gregory XIV", 
+            "Name in Latin" : "Papa Gregorius Quartus Decimus",
+            "Date of Birth" : "AD 11 February 1535",
+            "Birthplace" : "Somma Lombardo, Lombardy, Duchy of Milan",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "56"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "230",
+            "Pontificate": "29 October 1591 – 30 Dec 1591",
+            "Personal Name": "Giovanni Antonio Facchinetti",
+            "Name in English" : "Innocent IX", 
+            "Name in Latin" : "Papa Innocentius Nonus",
+            "Date of Birth" : "AD 20 July 1519",
+            "Birthplace" : "Bologna, Emilia-Romagna, Papal States",
+            "Age at start of Papacy" : "72",
+            "Age at end of Papacy" : "72"        
+        },
+        "current": false
+    },
+    {
+        "century" :"sixteenth",
+        "person":{
+            "Pontiff Number": "231",
+            "Pontificate": "30 January 1592 – 3 March 1605",
+            "Personal Name": "Ippolito Aldobrandini",
+            "Name in English" : "Clement VIII", 
+            "Name in Latin" : "Papa Clemens Octavus",
+            "Date of Birth" : "AD 24 February 1536",
+            "Birthplace" : "Fano, Marche, Papal States",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "232",
+            "Pontificate": "1 April 1605 – 27 April 1605",
+            "Personal Name": "Alessandro Ottaviano de' Medici",
+            "Name in English" : "Leo XI", 
+            "Name in Latin" : "Papa Leo Undecimus",
+            "Date of Birth" : "AD 2 June 1535",
+            "Birthplace" : "Florence, Duchy of Florence",
+            "Age at start of Papacy" : "69",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "233",
+            "Pontificate": "16 May 1605 – 28 Jan 1621",
+            "Personal Name": "Camillo Borghese",
+            "Name in English" : "Paul V", 
+            "Name in Latin" : "Papa Paulus Quintus",
+            "Date of Birth" : "AD 17 September 1550",
+            "Birthplace" : "Rome, Lazio, Papal States",
+            "Age at start of Papacy" : "52",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "234",
+            "Pontificate": "9 February 1621 – 8 July 1623",
+            "Personal Name": "Alessandro Ludovisi",
+            "Name in English" : "Gregory XV", 
+            "Name in Latin" : "Papa Gregorius Quintus Decimus",
+            "Date of Birth" : "AD 9 January 1554",
+            "Birthplace" : "Bologna, Emilia-Romagna, Papal States",
+            "Age at start of Papacy" : "67",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "235",
+            "Pontificate": "6 August 1623 – 29 July 1644",
+            "Personal Name": "Maffeo Barberini",
+            "Name in English" : "Urban VIII", 
+            "Name in Latin" : "Papa Urbanus Octavus",
+            "Date of Birth" : "AD 5 April 1568",
+            "Birthplace" : "Florence, Grand Duchy of Tuscany",
+            "Age at start of Papacy" : "55",
+            "Age at end of Papacy" : "78"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "236",
+            "Pontificate": "15 September 1644 – 7 Jan 1655",
+            "Personal Name": "Giovanni Battista Pamphilj",
+            "Name in English" : "Innocent X", 
+            "Name in Latin" : "Papa Innocentius Decimus",
+            "Date of Birth" : "AD 6 May 1574 ",
+            "Birthplace" : "Rome, Lazio, Papal States",
+            "Age at start of Papacy" : "70",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "237",
+            "Pontificate": "7 April 1655 – 22 May 1667",
+            "Personal Name": "Fabio Chigi",
+            "Name in English" : "Alexander VII", 
+            "Name in Latin" : "Papa Alexander Septimus",
+            "Date of Birth" : "AD 13 February 1599",
+            "Birthplace" : "Siena, Grand Duchy of Tuscany",
+            "Age at start of Papacy" : "56",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "238",
+            "Pontificate": "20 June 1667 – 9 Dec 1669",
+            "Personal Name": "Giulio Rospigliosi",
+            "Name in English" : "Clement IX", 
+            "Name in Latin" : "Papa Clemens Nonus",
+            "Date of Birth" : "AD 28 January 1600",
+            "Birthplace" : "Pistoia, Grand Duchy of Tuscany",
+            "Age at start of Papacy" : "67",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "239",
+            "Pontificate": "29 April 1670 – 22 July 1676",
+            "Personal Name": "Emilio Bonaventura Altieri",
+            "Name in English" : "Clement X", 
+            "Name in Latin" : "Papa Clemens Decimus",
+            "Date of Birth" : "AD 13 July 1590",
+            "Birthplace" : "Rome, Lazio, Papal States",
+            "Age at start of Papacy" : "79",
+            "Age at end of Papacy" : "86"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "240",
+            "Pontificate": "21 September 1676 – 12 Aug 1689",
+            "Personal Name": "Benedetto Odescalchi",
+            "Name in English" : "Bl. Innocent XI", 
+            "Name in Latin" : "Papa Innocentius Undecimus",
+            "Date of Birth" : "AD 16 May 1611",
+            "Birthplace" : "Como, Lombardy, Duchy of Milan",
+            "Age at start of Papacy" : "65",
+            "Age at end of Papacy" : "78"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "241",
+            "Pontificate": "6 October 1689 – 1 Feb 1691",
+            "Personal Name": "Pietro Vito Ottoboni",
+            "Name in English" : "Alexander VIII", 
+            "Name in Latin" : "Papa Alexander Octavus",
+            "Date of Birth" : "AD 22 April 1610",
+            "Birthplace" : "Venice, Republic of Venice",
+            "Age at start of Papacy" : "79",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "242",
+            "Pontificate": "12 July 1691 – 27 Sep 1700",
+            "Personal Name": "Antonio Pignatelli",
+            "Name in English" : "Innocent XII", 
+            "Name in Latin" : "Papa Innocentius Duodecimus",
+            "Date of Birth" : "AD 13 March 1615",
+            "Birthplace" : "Spinazzola, Apulia, Kingdom of Naples",
+            "Age at start of Papacy" : "76",
+            "Age at end of Papacy" : "85"        
+        },
+        "current": false
+    },
+    {
+        "century" :"seventeenth",
+        "person":{
+            "Pontiff Number": "243",
+            "Pontificate": "23 November 1700 – 19 March 1721",
+            "Personal Name": "Giovanni Francesco Albani",
+            "Name in English" : "Clement XI", 
+            "Name in Latin" : "Papa Clemens Undecimus",
+            "Date of Birth" : "AD 23 July 1649 ",
+            "Birthplace" : "Urbino, Marche, Papal States",
+            "Age at start of Papacy" : "51",
+            "Age at end of Papacy" : "71"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "244",
+            "Pontificate": "8 May 1721 – 7 March 1724",
+            "Personal Name": "Michelangelo dei Conti",
+            "Name in English" : "Innocent XIII", 
+            "Name in Latin" : "Papa Innocentius Tertius Decimus",
+            "Date of Birth" : "AD 13 May 1655",
+            "Birthplace" : "Poli, Lazio, Papal States",
+            "Age at start of Papacy" : "65",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "245",
+            "Pontificate": "29 May 1724 – 21 Feb 1730",
+            "Personal Name": "Pietro Francesco Orsini",
+            "Name in English" : "S.D. Benedict XIII", 
+            "Name in Latin" : "Papa Benedictus Tertius Decimus",
+            "Date of Birth" : "AD 2 February 1649",
+            "Birthplace" : "Gravina in Puglia, Bari, Kingdom of Naples",
+            "Age at start of Papacy" : "75",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "246",
+            "Pontificate": "12 July 1730 – 6 Feb 1740",
+            "Personal Name": "Lorenzo Corsini",
+            "Name in English" : "Clement XII", 
+            "Name in Latin" : "Papa Clemens Duodecimus",
+            "Date of Birth" : "AD 7 April 1652 ",
+            "Birthplace" : "Florence, Grand Duchy of Tuscany",
+            "Age at start of Papacy" : "78",
+            "Age at end of Papacy" : "87"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "247",
+            "Pontificate": "17 August 1740 – 3 May 1758",
+            "Personal Name": "Prospero Lorenzo Lambertini",
+            "Name in English" : "Benedict XIV", 
+            "Name in Latin" : "Papa Benedictus Quartus Decimus",
+            "Date of Birth" : "AD 31 March 1675 ",
+            "Birthplace" : "Bologna, Papal States",
+            "Age at start of Papacy" : "65",
+            "Age at end of Papacy" : "83"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "248",
+            "Pontificate": "6 July 1758 – 2 Feb 1769",
+            "Personal Name": "Carlo della Torre di Rezzonico",
+            "Name in English" : "Clement XIII", 
+            "Name in Latin" : "Papa Clemens Tertius Decimus",
+            "Date of Birth" : "AD 7 March 1693 ",
+            "Birthplace" : "Venice, Republic of Venice",
+            "Age at start of Papacy" : "65",
+            "Age at end of Papacy" : "75"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "249",
+            "Pontificate": "19 May 1769 – 22 Sep 1774",
+            "Personal Name": "Giovanni Vincenzo Antonio Ganganelli",
+            "Name in English" : "Clement XIV", 
+            "Name in Latin" : "Papa Clemens Quartus Decimus",
+            "Date of Birth" : "AD 31 October 1705",
+            "Birthplace" : "Sant'Arcangelo di Romagna, Papal States",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "250",
+            "Pontificate": "15 February 1775 – 29 Aug 1799",
+            "Personal Name": "Count Giovanni Angelo Braschi",
+            "Name in English" : "Pius VI", 
+            "Name in Latin" : "Papa Pius Sextus",
+            "Date of Birth" : "AD 25 December 1717",
+            "Birthplace" : "Cesena, Emilia-Romagna, Papal States",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"eighteenth",
+        "person":{
+            "Pontiff Number": "251",
+            "Pontificate": "14 March 1800 – 20 Aug 1823",
+            "Personal Name": "Count Barnaba Niccolò Maria Luigi Chiaramonti",
+            "Name in English" : "S.D. Pius VII", 
+            "Name in Latin" : "Papa Pius Septimus",
+            "Date of Birth" : "AD 14 August 1742",
+            "Birthplace" : "Cesena, Emilia-Romagna, Papal States",
+            "Age at start of Papacy" : "57",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"nineteenth",
+        "person":{
+            "Pontiff Number": "252",
+            "Pontificate": "28 September 1823 – 10 Feb 1829",
+            "Personal Name": "Count Annibale Francesco Clemente Melchiore Girolamo Nicola Sermattei della Genga",
+            "Name in English" : "Leo XII", 
+            "Name in Latin" : "Papa Leo Duodecimus",
+            "Date of Birth" : "AD 22 August 1760",
+            "Birthplace" : "Genga, Marche, Papal States",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "68"        
+        },
+        "current": false
+    },
+    {
+        "century" :"nineteenth",
+        "person":{
+            "Pontiff Number": "253",
+            "Pontificate": "31 March 1829 – 30 Nov 1830",
+            "Personal Name": "Francesco Saverio Castiglioni",
+            "Name in English" : "Pius VIII", 
+            "Name in Latin" : "Papa Pius Octavus",
+            "Date of Birth" : "AD 20 November 1761",
+            "Birthplace" : "Cingoli, Marche, Papal States",
+            "Age at start of Papacy" : "67",
+            "Age at end of Papacy" : "69"        
+        },
+        "current": false
+    },
+    {
+        "century" :"nineteenth",
+        "person":{
+            "Pontiff Number": "254",
+            "Pontificate": "2 February 1831 – 1 June 1846",
+            "Personal Name": "Bartolomeo Alberto Cappellar",
+            "Name in English" : "Gregory XVI", 
+            "Name in Latin" : "Papa Gregorius Sextus Decimus",
+            "Date of Birth" : "AD 18 September 1765",
+            "Birthplace" : "Belluno, Veneto, Republic of Venice",
+            "Age at start of Papacy" : "65",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"nineteenth",
+        "person":{
+            "Pontiff Number": "255",
+            "Pontificate": "16 June 1846 – 7 Feb 1878",
+            "Personal Name": "Count Giovanni Maria Mastai-Ferretti,",
+            "Name in English" : "Bl. Pius IX", 
+            "Name in Latin" : "Papa Pius Nonus",
+            "Date of Birth" : "AD 13 May 1792 ",
+            "Birthplace" : "Senigallia, Marche, Papal States",
+            "Age at start of Papacy" : "54",
+            "Age at end of Papacy" : "85"        
+        },
+        "current": false
+    },
+    {
+        "century" :"nineteenth",
+        "person":{
+            "Pontiff Number": "256",
+            "Pontificate": "20 February 1878 – 20 July 1903",
+            "Personal Name": "Gioacchino Vincenzo Raffaele Luigi Pecci",
+            "Name in English" : "Leo XIII", 
+            "Name in Latin" : "Papa Leo Tertius Decimus",
+            "Date of Birth" : "AD 2 March 1810 ",
+            "Birthplace" : "Carpineto Romano, Lazio, Italy",
+            "Age at start of Papacy" : "67",
+            "Age at end of Papacy" : "93"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "257",
+            "Pontificate": "4 August 1903 – 20 Aug 1914",
+            "Personal Name": "Giuseppe Melchiorre Sarto",
+            "Name in English" : "St Pius X", 
+            "Name in Latin" : "Papa Pius Decimus",
+            "Date of Birth" : "AD 2 June 1835",
+            "Birthplace" : "Riese, Treviso, Kingdom of Lombardy–Venetia",
+            "Age at start of Papacy" : "68",
+            "Age at end of Papacy" : "79"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "258",
+            "Pontificate": "3 September 1914 – 22 Jan 1922",
+            "Personal Name": "Giacomo Paolo Giovanni Battista Della Chiesa",
+            "Name in English" : "Benedict XV", 
+            "Name in Latin" : "Papa Benedictus Quintus Decimus",
+            "Date of Birth" : "AD 21 November 1854",
+            "Birthplace" : "Pegli, Genoa, Kingdom of Sardinia",
+            "Age at start of Papacy" : "59",
+            "Age at end of Papacy" : "67"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "259",
+            "Pontificate": "6 February 1922 – 10 Feb 1939",
+            "Personal Name": "Achille Ambrogio Damiano Ratti",
+            "Name in English" : "Pius XI", 
+            "Name in Latin" : "Papa Pius Undecimus",
+            "Date of Birth" : "AD 31 May 1857",
+            "Birthplace" : "Desio, Milan, Kingdom of Lombardy–Venetia",
+            "Age at start of Papacy" : "64",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "260",
+            "Pontificate": "2 March 1939 – 9 Oct 1958",
+            "Personal Name": "Eugenio Maria Giuseppe Giovanni Pacelli",
+            "Name in English" : "Ven. Pius XII", 
+            "Name in Latin" : "Papa Pius Duodecimus",
+            "Date of Birth" : "AD 2 March 1876",
+            "Birthplace" : "Rome, Italy",
+            "Age at start of Papacy" : "63",
+            "Age at end of Papacy" : "82"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "261",
+            "Pontificate": "28 October 1958 – 3 June 1963",
+            "Personal Name": "Angelo Giuseppe Roncalli",
+            "Name in English" : "St John XXIII", 
+            "Name in Latin" : "Papa Ioannes Vicesimus Tertius",
+            "Date of Birth" : "AD 25 November 1881",
+            "Birthplace" : "Sotto il Monte, Bergamo, Italy",
+            "Age at start of Papacy" : "76",
+            "Age at end of Papacy" : "81"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "262",
+            "Pontificate": "21 June 1963 – 6 Aug 1978",
+            "Personal Name": "Giovanni Battista Enrico Antonio Maria Montini",
+            "Name in English" : "St Paul VI", 
+            "Name in Latin" : "Papa Paulus Sextus",
+            "Date of Birth" : "AD 26 September 1897",
+            "Birthplace" : "Concesio, Brescia, Italy",
+            "Age at start of Papacy" : "65",
+            "Age at end of Papacy" : "80"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "263",
+            "Pontificate": "26 August 1978 – 28 Sep 1978",
+            "Personal Name": "Albino Luciani",
+            "Name in English" : "Ven. John Paul I", 
+            "Name in Latin" : "Papa Ioannes Paulus Primus",
+            "Date of Birth" : "AD 17 October 1912",
+            "Birthplace" : "Forno di Canale, Belluno, Italy",
+            "Age at start of Papacy" : "65",
+            "Age at end of Papacy" : "65"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentieth",
+        "person":{
+            "Pontiff Number": "264",
+            "Pontificate": "16 October 1978 – 2 April 2005",
+            "Personal Name": "Karol Józef Wojtyła",
+            "Name in English" : "St John Paul II", 
+            "Name in Latin" : "Papa Ioannes Paulus Secundus",
+            "Date of Birth" : "AD 20 May 1920",
+            "Birthplace" : "Wadowice, Poland",
+            "Age at start of Papacy" : "58",
+            "Age at end of Papacy" : "84"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentyfirsts",
+        "person":{
+            "Pontiff Number": "265",
+            "Pontificate": "19 April 2005 –28 Feb 2013",
+            "Personal Name": "Joseph Aloisius Ratzinger",
+            "Name in English" : "Benedict XVI", 
+            "Name in Latin" : "Papa Benedictus Decimus Sextus",
+            "Date of Birth" : "AD 16 April 1927",
+            "Birthplace" : "Marktl am Inn, Bavaria, Germany",
+            "Age at start of Papacy" : "78",
+            "Age at end of Papacy" : "85"        
+        },
+        "current": false
+    },
+    {
+        "century" :"Twentyfirsts",
+        "person":{
+            "Pontiff Number": "266",
+            "Pontificate": "13 March 2013 – present",
+            "Personal Name": "Jorge Mario Bergoglio",
+            "Name in English" : "Francis", 
+            "Name in Latin" : "Papa Franciscus",
+            "Date of Birth" : "17 December 1936",
+            "Birthplace" : "Flores, Buenos Aires, Argentina",
+            "Age at start of Papacy" : "76",
+            "Age at end of Papacy" : "N/A"         
+        },
+        "current": true
+    }
+]
