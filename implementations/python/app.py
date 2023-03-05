@@ -4,7 +4,7 @@ from typing import List
 from models import CenturyPerson, Pope, translateRecordToPapacy
 
 def run():
-    with open('..\\resources\\popes.json', encoding="UTF-8") as user_file:
+    with open('resources\\popes.json', encoding="UTF-8") as user_file:
         file: json = user_file.read()
         popes: List[CenturyPerson] = list(map(translateRecordToPapacy, json.loads(file)))
         picked_pope = pickapope(str(random.randint(1, 266)).zfill(3), popes)
