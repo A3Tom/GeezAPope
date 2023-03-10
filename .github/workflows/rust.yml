@@ -2,9 +2,11 @@ name: Rust
 
 on:
   push:
-    branches: [ "master" ]
+    branches: 
+      - '*'
   pull_request:
-    branches: [ "master" ]
+    branches: 
+      - 'master'
 
 env:
   CARGO_TERM_COLOR: always
@@ -17,4 +19,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build rust project
-      run: cargo build --verbose --manifest-path ..\implementations\rust\Cargo.toml
+      run: cargo build --verbose --manifest-path ${{ github.workspace }}\implementations\rust\Cargo.toml
