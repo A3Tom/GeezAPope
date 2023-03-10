@@ -5,7 +5,7 @@ use std::fs;
 use rand::Rng;
 
 mod models;
-use models::CenturyPerson;
+use models::{CenturyPerson, Pope};
 
 fn read_user_from_file<P: AsRef<Path>>(path: P) -> Result<Vec<CenturyPerson>, Box<dyn Error>> {
     let file = fs::File::open(path).expect("Nae file mate! Get it sorted");
@@ -20,6 +20,8 @@ fn main() {
 
     let mut rng = rand::thread_rng();
     let pontiff_number = rng.gen_range(1..pope_list.len());
+    let pope: &Pope = &pope_list[pontiff_number].pope;
 
-    println!("{:?}", pope_list[pontiff_number]);
+    // I know this seems hawf baked but I quite like this output for now
+    println!("[{0:#?}]", pope);
 }
