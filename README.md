@@ -9,7 +9,7 @@ Slap one of the followin commands into yer terminal
 
 ### Need a tech-specific pope generator ?
 
-Current implementations | Cmd
-:--:|:-:
-Rust | `geezapope-rust`
-Python | `geezapope-python`
+Current implementations | Cmd | Working or shite?
+:--:|:-:|:-:
+Rust | `geezapope-rust` | [![Rust](https://github.com/A3Tom/GeezAPope/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/A3Tom/GeezAPope/actions/workflows/rust.yml)
+Python | `geezapope-python` | 
