@@ -11,4 +11,5 @@ Slap one of the followin commands into yer terminal
 
 Current implementations | Cmd
 :--:|:-:
+Rust | `geezapope-rust`
 Python | `geezapope-python`
