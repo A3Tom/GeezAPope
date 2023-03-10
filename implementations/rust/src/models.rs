@@ -5,13 +5,13 @@ pub struct CenturyPerson {
     #[serde(rename = "century")]
     century: String, 
     #[serde(rename = "person")]
-    pope: Pope,
+    pub pope: Pope,
     #[serde(rename = "current")]
     current: bool
 }
 
 #[derive(Debug, Deserialize, Serialize)]
-struct Pope {
+pub struct Pope {
     #[serde(rename = "Pontiff Number")]
     pontiff_number: String,
     #[serde(rename = "Pontificate")]
