@@ -17,4 +17,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build rust project
-      run: cargo build --verbose --manifest-path implementations\rust\Cargo.toml
+      run: cargo build --verbose --manifest-path ..\implementations\rust\Cargo.toml
