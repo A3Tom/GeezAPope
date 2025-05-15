@@ -3981,13 +3981,28 @@
         "century" :"Twentyfirsts",
         "person":{
             "Pontiff Number": "266",
-            "Pontificate": "13 March 2013 – present",
+            "Pontificate": "13 March 2013 – 21 April 2025",
             "Personal Name": "Jorge Mario Bergoglio",
             "Name in English" : "Francis", 
             "Name in Latin" : "Papa Franciscus",
             "Date of Birth" : "17 December 1936",
             "Birthplace" : "Flores, Buenos Aires, Argentina",
             "Age at start of Papacy" : "76",
+            "Age at end of Papacy" : "88"         
+        },
+        "current": true
+    },
+    {
+        "century" :"Twentyfirsts",
+        "person":{
+            "Pontiff Number": "267",
+            "Pontificate": "8 May 2025 – present",
+            "Personal Name": "Robert Francis Prevost",
+            "Name in English" : "Leo XIV", 
+            "Name in Latin" : "Papa Leo Quartus Decimus",
+            "Date of Birth" : "14 September 1955",
+            "Birthplace" : "Chicago, Illinois, United States",
+            "Age at start of Papacy" : "69",
             "Age at end of Papacy" : "N/A"         
         },
         "current": true
